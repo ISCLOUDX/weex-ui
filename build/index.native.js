@@ -432,10 +432,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-rich-text/wxc-rich-text-text.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-rich-text/wxc-rich-text-text.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-7a7c04cc"
+__vue_options__._scopeId = "data-v-b0d964c0"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -804,10 +804,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-checkbox/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-checkbox/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-5f56b30c"
+__vue_options__._scopeId = "data-v-9ef19b64"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -848,10 +848,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-rich-text/wxc-rich-text-tag.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-rich-text/wxc-rich-text-tag.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-676c9ccb"
+__vue_options__._scopeId = "data-v-609ee977"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -2894,10 +2894,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-button/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-button/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-e0facbae"
+__vue_options__._scopeId = "data-v-d663ea06"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -2938,10 +2938,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-cell/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-cell/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-6eea314e"
+__vue_options__._scopeId = "data-v-843705a6"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -2978,7 +2978,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-checkbox-list/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-checkbox-list/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__.style = __vue_options__.style || {}
@@ -3021,10 +3021,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-city/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-city/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-4fc14022"
+__vue_options__._scopeId = "data-v-451ad5f6"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3065,10 +3065,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-city/tab.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-city/tab.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-92b66936"
+__vue_options__._scopeId = "data-v-2351c639"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3109,10 +3109,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-countdown/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-countdown/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-5e9a2430"
+__vue_options__._scopeId = "data-v-f68dda48"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3153,10 +3153,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-dialog/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-dialog/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-5ae36682"
+__vue_options__._scopeId = "data-v-504c84da"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3197,10 +3197,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-ep-slider/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-ep-slider/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-cafda07c"
+__vue_options__._scopeId = "data-v-7ebfc324"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3241,10 +3241,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-grid-select/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-grid-select/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-d231103c"
+__vue_options__._scopeId = "data-v-9df528e4"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3285,10 +3285,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-grid-select/option.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-grid-select/option.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-6dfe5215"
+__vue_options__._scopeId = "data-v-d0c2582e"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3329,10 +3329,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-icon/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-icon/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-7795e9b0"
+__vue_options__._scopeId = "data-v-6cef7f84"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3373,10 +3373,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-indexlist/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-indexlist/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-607d6baf"
+__vue_options__._scopeId = "data-v-f2c74b4a"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3417,10 +3417,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-lightbox/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-lightbox/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-7f585d2c"
+__vue_options__._scopeId = "data-v-5f8ae900"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3461,10 +3461,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-loading/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-loading/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-216d530a"
+__vue_options__._scopeId = "data-v-d927ffb2"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3505,10 +3505,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-lottery-rain/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-lottery-rain/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-2b6e320f"
+__vue_options__._scopeId = "data-v-550eb3e3"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3549,10 +3549,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-lottery-rain/rain-item.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-lottery-rain/rain-item.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-007dc12e"
+__vue_options__._scopeId = "data-v-7ee4973d"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3593,10 +3593,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-mask/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-mask/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-fbc0ff3a"
+__vue_options__._scopeId = "data-v-77791637"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3637,10 +3637,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-minibar/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-minibar/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-6c3a719b"
+__vue_options__._scopeId = "data-v-105d1b47"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3681,10 +3681,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-noticebar/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-noticebar/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-1747c08c"
+__vue_options__._scopeId = "data-v-1a7b0e66"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3725,10 +3725,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-overlay/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-overlay/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-a52a1ee2"
+__vue_options__._scopeId = "data-v-518d9a3b"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3769,10 +3769,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-page-calendar/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-page-calendar/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-c4e7920a"
+__vue_options__._scopeId = "data-v-b00820b2"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3809,7 +3809,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-pan-item/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-pan-item/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__.style = __vue_options__.style || {}
@@ -3848,7 +3848,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-part-loading/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-part-loading/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__.style = __vue_options__.style || {}
@@ -3891,10 +3891,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-popup/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-popup/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-0f235a2a"
+__vue_options__._scopeId = "data-v-a37110d2"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3935,10 +3935,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-progress/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-progress/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-5868d064"
+__vue_options__._scopeId = "data-v-389b5c38"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -3979,10 +3979,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-radio/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-radio/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-32a75f7a"
+__vue_options__._scopeId = "data-v-2efef7b4"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4023,10 +4023,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-radio/item.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-radio/item.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-0f804d1b"
+__vue_options__._scopeId = "data-v-04d9e2ef"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4067,10 +4067,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-result/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-result/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-7dd65154"
+__vue_options__._scopeId = "data-v-f9bc7bb0"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4111,10 +4111,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-rich-text/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-rich-text/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-40bf793d"
+__vue_options__._scopeId = "data-v-66de67e9"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4155,10 +4155,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-rich-text/wxc-rich-text-icon.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-rich-text/wxc-rich-text-icon.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-eb5b13d0"
+__vue_options__._scopeId = "data-v-912c8228"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4195,7 +4195,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-rich-text/wxc-rich-text-link.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-rich-text/wxc-rich-text-link.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__.style = __vue_options__.style || {}
@@ -4238,10 +4238,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-searchbar/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-searchbar/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-3bc83a2c"
+__vue_options__._scopeId = "data-v-083ad196"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4282,10 +4282,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-simple-flow/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-simple-flow/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-afc9c130"
+__vue_options__._scopeId = "data-v-7b8dd9d8"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4326,10 +4326,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-slide-nav/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-slide-nav/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-ce8354f4"
+__vue_options__._scopeId = "data-v-8245779c"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4370,10 +4370,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-slider-bar/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-slider-bar/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-221cc7de"
+__vue_options__._scopeId = "data-v-8048a29c"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4414,10 +4414,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-special-rich-text/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-special-rich-text/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-d95723ae"
+__vue_options__._scopeId = "data-v-0ec01e56"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4458,10 +4458,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-stepper/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-stepper/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-2fc4e5d0"
+__vue_options__._scopeId = "data-v-5830e108"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4502,10 +4502,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-tab-bar/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-tab-bar/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-6e0c585a"
+__vue_options__._scopeId = "data-v-122f0206"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4546,10 +4546,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-tab-page/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-tab-page/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-40ad0f7e"
+__vue_options__._scopeId = "data-v-20df9b52"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -4590,10 +4590,10 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "/Users/Tw93/www/github/weex-ui/packages/wxc-tag/index.vue"
+__vue_options__.__file = "/Users/saber/weex-ui/packages/wxc-tag/index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-__vue_options__._scopeId = "data-v-5a408959"
+__vue_options__._scopeId = "data-v-f99a2df6"
 __vue_options__.style = __vue_options__.style || {}
 __vue_styles__.forEach(function (module) {
   for (var name in module) {
@@ -5075,7 +5075,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
@@ -5136,150 +5136,153 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 //
 //
 
-var animation = weex.requireModule('animation');
+var animation = null;
 
 exports.default = {
-  components: { wxcTab: _tab2.default, WxcSearchbar: _wxcSearchbar2.default, WxcResult: _wxcResult2.default, WxcIndexlist: _wxcIndexlist2.default },
-  props: {
-    inputConfig: {
-      type: Object,
-      default: function _default() {
-        return {};
-      }
-    },
-    normalList: {
-      type: Array,
-      default: function _default() {
-        return [];
-      }
-    },
-    cityHeight: {
-      type: Number,
-      default: 0
-    },
-    showTab: {
-      type: Boolean,
-      default: false
-    },
-    hotListConfig: {
-      type: Object,
-      default: function _default() {
-        return {};
-      }
-    },
-    cityLocationConfig: {
-      type: Object,
-      default: function _default() {
-        return {};
-      }
-    },
-    onlyShowList: {
-      type: Boolean,
-      default: false
-    },
-    showIndex: {
-      type: Boolean,
-      default: true
-    }
-  },
-  data: function data() {
-    return {
-      tId: null,
-      result: {
-        noGoods: {
-          pic: 'https://img.alicdn.com/tfs/TB1SpPHkf2H8KJjy0FcXXaDlFXa-200-200.png',
-          button: '',
-          content: '搜索无结果'
-        }
-      }
-    };
-  },
-  computed: {
-    showError: function showError() {
-      var normalList = this.normalList,
-          hotListConfig = this.hotListConfig;
-
-      return normalList && normalList.length < 1 && hotListConfig && hotListConfig.list && hotListConfig.list.length < 1;
-    },
-    listHeight: function listHeight() {
-      // 兼容去头逻辑
-      var pageHeight = _utils2.default.env.getPageHeight();
-
-      var cityHeight = this.cityHeight;
-
-      if (cityHeight && !isNaN(cityHeight) && cityHeight > 0) {
-        pageHeight = cityHeight;
-      }
-
-      // searchInput 84
-      var tabHeight = this.showTab ? 90 : 0;
-      return pageHeight - 84 - tabHeight;
-    },
-    mergeInputConfig: function mergeInputConfig() {
-      return _extends({
-        autofocus: false,
-        alwaysShowCancel: true,
-        placeholder: '中文/拼音/首字母'
-      }, this.inputConfig);
-    }
-  },
-  methods: {
-    onTabSwitch: function onTabSwitch(e) {
-      this.$emit('wxcTabSwitch', e);
-    },
-    switchTab: function switchTab() {
-      var _this = this;
-
-      var i = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 0;
-
-      setTimeout(function () {
-        _this.$refs['wxc-tab'].switchTab(i);
-      }, 100);
-    },
-    onItemClick: function onItemClick(e) {
-      this.$refs['wxc-searchbar'].autoBlur();
-      this.show(false);
-      this.$emit('wxcCityItemSelected', { item: e.item });
-    },
-    onInput: function onInput(e) {
-      var _this2 = this;
-
-      clearTimeout(this.tId);
-      this.tId = setTimeout(function () {
-        _this2.$emit('wxcCityOnInput', {
-          value: e.value
-        });
-      }, 300);
-    },
-    onCancel: function onCancel() {
-      this.autoBlur();
-      this.show(false);
-      this.$emit('wxcCityCanceled', {});
-    },
-    onSubmit: function onSubmit(e) {
-      this.autoBlur();
-      this.$emit('wxcCityOnKeyUpEnter', { value: e.value });
-    },
-    autoBlur: function autoBlur() {
-      var inputRef = this.$refs['wxc-searchbar'];
-      inputRef && inputRef.autoBlur();
-    },
-    show: function show() {
-      var status = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : true;
-      var callback = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
-
-      animation.transition(this.$refs.city, {
-        styles: {
-          transform: 'translateX(' + (status ? -750 : 750) + 'px)'
+    components: { wxcTab: _tab2.default, WxcSearchbar: _wxcSearchbar2.default, WxcResult: _wxcResult2.default, WxcIndexlist: _wxcIndexlist2.default },
+    props: {
+        inputConfig: {
+            type: Object,
+            default: function _default() {
+                return {};
+            }
         },
-        duration: status ? 250 : 300, // ms
-        timingFunction: status ? 'ease-in' : 'ease-out',
-        delay: 0 // ms
-      }, function () {
-        callback && callback();
-      });
+        normalList: {
+            type: Array,
+            default: function _default() {
+                return [];
+            }
+        },
+        cityHeight: {
+            type: Number,
+            default: 0
+        },
+        showTab: {
+            type: Boolean,
+            default: false
+        },
+        hotListConfig: {
+            type: Object,
+            default: function _default() {
+                return {};
+            }
+        },
+        cityLocationConfig: {
+            type: Object,
+            default: function _default() {
+                return {};
+            }
+        },
+        onlyShowList: {
+            type: Boolean,
+            default: false
+        },
+        showIndex: {
+            type: Boolean,
+            default: true
+        }
+    },
+    data: function data() {
+        return {
+            tId: null,
+            result: {
+                noGoods: {
+                    pic: 'https://img.alicdn.com/tfs/TB1SpPHkf2H8KJjy0FcXXaDlFXa-200-200.png',
+                    button: '',
+                    content: '搜索无结果'
+                }
+            }
+        };
+    },
+    computed: {
+        showError: function showError() {
+            var normalList = this.normalList,
+                hotListConfig = this.hotListConfig;
+
+            return normalList && normalList.length < 1 && hotListConfig && hotListConfig.list && hotListConfig.list.length < 1;
+        },
+        listHeight: function listHeight() {
+            // 兼容去头逻辑
+            var pageHeight = _utils2.default.env.getPageHeight();
+
+            var cityHeight = this.cityHeight;
+
+            if (cityHeight && !isNaN(cityHeight) && cityHeight > 0) {
+                pageHeight = cityHeight;
+            }
+
+            // searchInput 84
+            var tabHeight = this.showTab ? 90 : 0;
+            return pageHeight - 84 - tabHeight;
+        },
+        mergeInputConfig: function mergeInputConfig() {
+            return _extends({
+                autofocus: false,
+                alwaysShowCancel: true,
+                placeholder: '中文/拼音/首字母'
+            }, this.inputConfig);
+        }
+    },
+    methods: {
+        onTabSwitch: function onTabSwitch(e) {
+            this.$emit('wxcTabSwitch', e);
+        },
+        switchTab: function switchTab() {
+            var _this = this;
+
+            var i = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 0;
+
+            setTimeout(function () {
+                _this.$refs['wxc-tab'].switchTab(i);
+            }, 100);
+        },
+        onItemClick: function onItemClick(e) {
+            this.$refs['wxc-searchbar'].autoBlur();
+            this.show(false);
+            this.$emit('wxcCityItemSelected', { item: e.item });
+        },
+        onInput: function onInput(e) {
+            var _this2 = this;
+
+            clearTimeout(this.tId);
+            this.tId = setTimeout(function () {
+                _this2.$emit('wxcCityOnInput', {
+                    value: e.value
+                });
+            }, 300);
+        },
+        onCancel: function onCancel() {
+            this.autoBlur();
+            this.show(false);
+            this.$emit('wxcCityCanceled', {});
+        },
+        onSubmit: function onSubmit(e) {
+            this.autoBlur();
+            this.$emit('wxcCityOnKeyUpEnter', { value: e.value });
+        },
+        autoBlur: function autoBlur() {
+            var inputRef = this.$refs['wxc-searchbar'];
+            inputRef && inputRef.autoBlur();
+        },
+        show: function show() {
+            var status = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : true;
+            var callback = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
+
+            animation.transition(this.$refs.city, {
+                styles: {
+                    transform: 'translateX(' + (status ? -750 : 750) + 'px)'
+                },
+                duration: status ? 250 : 300, // ms
+                timingFunction: status ? 'ease-in' : 'ease-out',
+                delay: 0 // ms
+            }, function () {
+                callback && callback();
+            });
+        }
+    },
+    created: function created() {
+        animation = weex.requireModule('animation');
     }
-  }
 };
 
 /***/ }),
@@ -5844,7 +5847,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _utils = __webpack_require__(0);
@@ -5883,417 +5886,421 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 //
 //
 
-var swipeBack = weex.requireModule('swipeBack');
-var expressionBinding = weex.requireModule('expressionBinding');
-var animation = weex.requireModule('animation');
+var swipeBack = void 0,
+    expressionBinding = void 0,
+    animation = void 0;
+
 exports.default = {
-  props: {
-    sliderId: {
-      type: [String, Number],
-      default: 1
+    props: {
+        sliderId: {
+            type: [String, Number],
+            default: 1
+        },
+        panOffset: {
+            type: Number,
+            default: 80
+        },
+        cardLength: {
+            type: Number,
+            default: 1
+        },
+        selectIndex: {
+            type: Number,
+            default: 0
+        },
+        enableSwipe: {
+            type: Boolean,
+            default: true
+        },
+        containerS: {
+            type: Object,
+            default: function _default() {
+                return {
+                    position: 'relative',
+                    width: 750,
+                    height: 352,
+                    overflow: 'hidden'
+                };
+            }
+        },
+        cardS: {
+            type: Object,
+            default: function _default() {
+                return {
+                    width: 360,
+                    height: 300,
+                    spacing: 0,
+                    scale: 0.75
+                };
+            }
+        },
+        autoPlay: {
+            type: Boolean,
+            default: false
+        },
+        interval: {
+            type: [Number, String],
+            default: 1200
+        }
     },
-    panOffset: {
-      type: Number,
-      default: 80
-    },
-    cardLength: {
-      type: Number,
-      default: 1
-    },
-    selectIndex: {
-      type: Number,
-      default: 0
-    },
-    enableSwipe: {
-      type: Boolean,
-      default: true
-    },
-    containerS: {
-      type: Object,
-      default: function _default() {
+    data: function data() {
         return {
-          position: 'relative',
-          width: 750,
-          height: 352,
-          overflow: 'hidden'
+            moving: false,
+            startX: 0,
+            startTime: 0,
+            currentIndex: 0,
+            autoPlayTimer: null
         };
-      }
     },
-    cardS: {
-      type: Object,
-      default: function _default() {
-        return {
-          width: 360,
-          height: 300,
-          spacing: 0,
-          scale: 0.75
-        };
-      }
-    },
-    autoPlay: {
-      type: Boolean,
-      default: false
-    },
-    interval: {
-      type: [Number, String],
-      default: 1200
-    }
-  },
-  data: function data() {
-    return {
-      moving: false,
-      startX: 0,
-      startTime: 0,
-      currentIndex: 0,
-      autoPlayTimer: null
-    };
-  },
-  computed: {
-    cardList: function cardList() {
-      return new Array(this.cardLength + 1).join().split('');
-    },
-    cardWidth: function cardWidth() {
-      return (this.cardLength - 1) * this.cardS.width + this.containerS.width + 235 + 'px';
-    }
-  },
-  created: function created() {
-    this.currentIndex = this.selectIndex;
-  },
-  mounted: function mounted() {
-    var _this = this;
-
-    // ios和页面返回冲突，组件里面将ios系统横滑返回禁止
-    if (swipeBack && swipeBack.forbidSwipeBack) {
-      swipeBack.forbidSwipeBack(true);
-    }
-    setTimeout(function () {
-      var sliderCtn = _this.$refs['sliderCtn_' + _this.sliderId];
-      if (_utils2.default.env.supportsEB() && sliderCtn && sliderCtn.ref) {
-        expressionBinding.enableBinding(sliderCtn.ref, 'pan');
-        _this.bindExp(sliderCtn);
-      }
-    }, 20);
-    this.checkNeedAutoPlay();
-  },
-
-  methods: {
-    onTouchStart: function onTouchStart(e) {
-      if (_utils2.default.env.supportsEB()) {
-        return;
-      }
-      this.clearAutoPlay();
-      this.startX = e.changedTouches[0].clientX;
-      this.startTime = Date.now();
-    },
-    onTouchMove: function onTouchMove(e) {
-      if (_utils2.default.env.supportsEB()) {
-        return;
-      }
-      var moveX = e.changedTouches[0].clientX - this.startX;
-      var index = this.loopedIndex(this.currentIndex, this.cardLength);
-      var cardLength = this.cardLength;
-      var currentCardLeft = this.currentIndex * (this.cardS.width + this.cardS.spacing);
-
-      var sliderCtn = this.$refs['sliderCtn_' + this.sliderId];
-      sliderCtn && animation.transition(sliderCtn, {
-        styles: {
-          transform: 'translateX(' + (moveX - currentCardLeft) + 'px)'
+    computed: {
+        cardList: function cardList() {
+            return new Array(this.cardLength + 1).join().split('');
         },
-        timingFunction: 'ease',
-        delay: 0,
-        duration: 0
-      }, function () {});
-
-      if (this.cardS.scale !== 1) {
-        var currentCard = this.$refs['card' + this.loopedIndex(index, cardLength) + '_' + this.sliderId][0];
-        currentCard && animation.transition(currentCard, {
-          styles: {
-            transform: 'scale(' + (1 - Math.abs(moveX) / this.cardS.width * (1 - this.cardS.scale)) + ')'
-          },
-          timingFunction: 'ease',
-          delay: 0,
-          duration: 0
-        }, function () {});
-        // 左边的卡片
-        var leftCard = this.$refs['card' + this.loopedIndex(index - 1, cardLength) + '_' + this.sliderId][0];
-        // loop 函数负数返回 0，这里有点冲突
-        if (leftCard && index !== 0) {
-          animation.transition(leftCard, {
-            styles: {
-              transform: 'scale(' + (1 - Math.abs(moveX - this.cardS.width) / this.cardS.width * (1 - this.cardS.scale)) + ')'
-            },
-            timingFunction: 'ease',
-            delay: 0,
-            duration: 0
-          }, function () {});
+        cardWidth: function cardWidth() {
+            return (this.cardLength - 1) * this.cardS.width + this.containerS.width + 235 + 'px';
         }
-        // 右边卡片
-        var rightCard = this.$refs['card' + this.loopedIndex(index + 1, cardLength) + '_' + this.sliderId][0];
-        rightCard && animation.transition(rightCard, {
-          styles: {
-            transform: 'scale(' + (1 - Math.abs(this.cardS.width + moveX) / this.cardS.width * (1 - this.cardS.scale)) + ')'
-          },
-          timingFunction: 'ease',
-          delay: 0,
-          duration: 0
-        }, function () {});
-      }
     },
-    onTouchEnd: function onTouchEnd(e) {
-      var _this2 = this;
-
-      if (_utils2.default.env.supportsEB()) {
-        return;
-      }
-      this.moving = true;
-      var moveX = e.changedTouches[0].clientX - this.startX;
-      var originIndex = this.currentIndex;
-      var cardLength = this.cardLength;
-      var selectIndex = originIndex;
-      var panOffset = this.panOffset || this.cardS.width / 2;
-
-      if (moveX < -panOffset) {
-        if (this.loop || selectIndex !== cardLength - 1) {
-          selectIndex++;
-        }
-      } else if (moveX > panOffset) {
-        if (this.loop || selectIndex !== 0) {
-          selectIndex--;
-        }
-      }
-      this.slideTo(originIndex, selectIndex);
-      setTimeout(function () {
-        _this2.checkNeedAutoPlay();
-      }, 3000);
+    created: function created() {
+        this.currentIndex = this.selectIndex;
+        swipeBack = weex.requireModule('swipeBack');
+        expressionBinding = weex.requireModule('expressionBinding');
+        animation = weex.requireModule('animation');
     },
-    onEpTouchStart: function onEpTouchStart(e) {
-      var _this3 = this;
+    mounted: function mounted() {
+        var _this = this;
 
-      if (_utils2.default.env.supportsEB() && e.state === 'start') {
-        this.clearAutoPlay();
+        // ios和页面返回冲突，组件里面将ios系统横滑返回禁止
+        if (swipeBack && swipeBack.forbidSwipeBack) {
+            swipeBack.forbidSwipeBack(true);
+        }
         setTimeout(function () {
-          var sliderCtn = _this3.$refs['sliderCtn_' + _this3.sliderId];
-          _this3.bindExp(sliderCtn);
-        }, 0);
-      }
+            var sliderCtn = _this.$refs['sliderCtn_' + _this.sliderId];
+            if (_utils2.default.env.supportsEB() && sliderCtn && sliderCtn.ref) {
+                expressionBinding.enableBinding(sliderCtn.ref, 'pan');
+                _this.bindExp(sliderCtn);
+            }
+        }, 20);
+        this.checkNeedAutoPlay();
     },
-    panEnd: function panEnd(e) {
-      var _this4 = this;
 
-      if (e.state === 'end' || e.state === 'cancel' || e.state === 'exit') {
-        this.moving = true;
-        var moveX = e.deltaX;
-        var originIndex = this.currentIndex;
-        var selectIndex = originIndex;
-        var duration = Date.now() - this.startTime;
-        var panOffset = this.panOffset || this.cardS.width / 2;
-        if (moveX < -panOffset || this.enableSwipe && moveX < -10 && duration < 200) {
-          if (selectIndex !== this.cardLength - 1) {
-            selectIndex++;
-          }
-        } else if (moveX > panOffset || this.enableSwipe && moveX > 10 && duration < 500) {
-          if (selectIndex !== 0) {
-            selectIndex--;
-          }
-        }
-        this.slideTo(originIndex, selectIndex);
-        setTimeout(function () {
-          _this4.checkNeedAutoPlay();
-        }, 3000);
-      }
-    },
-    slideTo: function slideTo(originIndex, selectIndex) {
-      var _this5 = this;
-
-      var currentCardScale = 1;
-      var rightCardScale = this.cardS.scale;
-      var leftCardScale = this.cardS.scale;
-      var duration = selectIndex === 0 && originIndex === this.cardLength - 1 ? 0.00001 : 300;
-      this.$emit('wxcEpSliderCurrentIndexSelected', { currentIndex: selectIndex });
-      if (originIndex < selectIndex) {
-        currentCardScale = this.cardS.scale;
-        rightCardScale = 1;
-      } else if (originIndex > selectIndex) {
-        currentCardScale = this.cardS.scale;
-        leftCardScale = 1;
-      }
-      var currentCard = this.$refs['card' + this.loopedIndex(originIndex, this.cardLength) + '_' + this.sliderId][0];
-      currentCard && animation.transition(currentCard, {
-        styles: {
-          transform: 'scale(' + currentCardScale + ')'
+    methods: {
+        onTouchStart: function onTouchStart(e) {
+            if (_utils2.default.env.supportsEB()) {
+                return;
+            }
+            this.clearAutoPlay();
+            this.startX = e.changedTouches[0].clientX;
+            this.startTime = Date.now();
         },
-        timingFunction: 'ease',
-        duration: duration
-      }, function () {});
+        onTouchMove: function onTouchMove(e) {
+            if (_utils2.default.env.supportsEB()) {
+                return;
+            }
+            var moveX = e.changedTouches[0].clientX - this.startX;
+            var index = this.loopedIndex(this.currentIndex, this.cardLength);
+            var cardLength = this.cardLength;
+            var currentCardLeft = this.currentIndex * (this.cardS.width + this.cardS.spacing);
 
-      var leftCard = this.$refs['card' + this.loopedIndex(originIndex - 1, this.cardLength) + '_' + this.sliderId][0];
-      if (this.moving && leftCard && originIndex !== 0) {
-        animation.transition(leftCard, {
-          styles: {
-            transform: 'scale(' + leftCardScale + ')'
-          },
-          timingFunction: 'ease',
-          duration: duration
-        }, function () {});
-      }
-      var rightCard = this.$refs['card' + this.loopedIndex(originIndex + 1, this.cardLength) + '_' + this.sliderId][0];
-      if (rightCard && originIndex !== this.cardLength - 1) {
-        animation.transition(rightCard, {
-          styles: {
-            transform: 'scale(' + rightCardScale + ')'
-          },
-          timingFunction: 'ease',
-          duration: duration
-        }, function () {});
-      }
+            var sliderCtn = this.$refs['sliderCtn_' + this.sliderId];
+            sliderCtn && animation.transition(sliderCtn, {
+                styles: {
+                    transform: 'translateX(' + (moveX - currentCardLeft) + 'px)'
+                },
+                timingFunction: 'ease',
+                delay: 0,
+                duration: 0
+            }, function () {});
 
-      var sliderCtn = this.$refs['sliderCtn_' + this.sliderId];
-      sliderCtn && animation.transition(sliderCtn, {
-        styles: {
-          transform: 'translateX(-' + selectIndex * (this.cardS.width + this.cardS.spacing) + 'px)'
+            if (this.cardS.scale !== 1) {
+                var currentCard = this.$refs['card' + this.loopedIndex(index, cardLength) + '_' + this.sliderId][0];
+                currentCard && animation.transition(currentCard, {
+                    styles: {
+                        transform: 'scale(' + (1 - Math.abs(moveX) / this.cardS.width * (1 - this.cardS.scale)) + ')'
+                    },
+                    timingFunction: 'ease',
+                    delay: 0,
+                    duration: 0
+                }, function () {});
+                // 左边的卡片
+                var leftCard = this.$refs['card' + this.loopedIndex(index - 1, cardLength) + '_' + this.sliderId][0];
+                // loop 函数负数返回 0，这里有点冲突
+                if (leftCard && index !== 0) {
+                    animation.transition(leftCard, {
+                        styles: {
+                            transform: 'scale(' + (1 - Math.abs(moveX - this.cardS.width) / this.cardS.width * (1 - this.cardS.scale)) + ')'
+                        },
+                        timingFunction: 'ease',
+                        delay: 0,
+                        duration: 0
+                    }, function () {});
+                }
+                // 右边卡片
+                var rightCard = this.$refs['card' + this.loopedIndex(index + 1, cardLength) + '_' + this.sliderId][0];
+                rightCard && animation.transition(rightCard, {
+                    styles: {
+                        transform: 'scale(' + (1 - Math.abs(this.cardS.width + moveX) / this.cardS.width * (1 - this.cardS.scale)) + ')'
+                    },
+                    timingFunction: 'ease',
+                    delay: 0,
+                    duration: 0
+                }, function () {});
+            }
         },
-        timingFunction: 'ease',
-        duration: duration
-      }, function () {
-        _this5.moving = false;
-        if (originIndex !== selectIndex) {
-          _this5.currentIndex = selectIndex;
+        onTouchEnd: function onTouchEnd(e) {
+            var _this2 = this;
+
+            if (_utils2.default.env.supportsEB()) {
+                return;
+            }
+            this.moving = true;
+            var moveX = e.changedTouches[0].clientX - this.startX;
+            var originIndex = this.currentIndex;
+            var cardLength = this.cardLength;
+            var selectIndex = originIndex;
+            var panOffset = this.panOffset || this.cardS.width / 2;
+
+            if (moveX < -panOffset) {
+                if (this.loop || selectIndex !== cardLength - 1) {
+                    selectIndex++;
+                }
+            } else if (moveX > panOffset) {
+                if (this.loop || selectIndex !== 0) {
+                    selectIndex--;
+                }
+            }
+            this.slideTo(originIndex, selectIndex);
+            setTimeout(function () {
+                _this2.checkNeedAutoPlay();
+            }, 3000);
+        },
+        onEpTouchStart: function onEpTouchStart(e) {
+            var _this3 = this;
+
+            if (_utils2.default.env.supportsEB() && e.state === 'start') {
+                this.clearAutoPlay();
+                setTimeout(function () {
+                    var sliderCtn = _this3.$refs['sliderCtn_' + _this3.sliderId];
+                    _this3.bindExp(sliderCtn);
+                }, 0);
+            }
+        },
+        panEnd: function panEnd(e) {
+            var _this4 = this;
+
+            if (e.state === 'end' || e.state === 'cancel' || e.state === 'exit') {
+                this.moving = true;
+                var moveX = e.deltaX;
+                var originIndex = this.currentIndex;
+                var selectIndex = originIndex;
+                var duration = Date.now() - this.startTime;
+                var panOffset = this.panOffset || this.cardS.width / 2;
+                if (moveX < -panOffset || this.enableSwipe && moveX < -10 && duration < 200) {
+                    if (selectIndex !== this.cardLength - 1) {
+                        selectIndex++;
+                    }
+                } else if (moveX > panOffset || this.enableSwipe && moveX > 10 && duration < 500) {
+                    if (selectIndex !== 0) {
+                        selectIndex--;
+                    }
+                }
+                this.slideTo(originIndex, selectIndex);
+                setTimeout(function () {
+                    _this4.checkNeedAutoPlay();
+                }, 3000);
+            }
+        },
+        slideTo: function slideTo(originIndex, selectIndex) {
+            var _this5 = this;
+
+            var currentCardScale = 1;
+            var rightCardScale = this.cardS.scale;
+            var leftCardScale = this.cardS.scale;
+            var duration = selectIndex === 0 && originIndex === this.cardLength - 1 ? 0.00001 : 300;
+            this.$emit('wxcEpSliderCurrentIndexSelected', { currentIndex: selectIndex });
+            if (originIndex < selectIndex) {
+                currentCardScale = this.cardS.scale;
+                rightCardScale = 1;
+            } else if (originIndex > selectIndex) {
+                currentCardScale = this.cardS.scale;
+                leftCardScale = 1;
+            }
+            var currentCard = this.$refs['card' + this.loopedIndex(originIndex, this.cardLength) + '_' + this.sliderId][0];
+            currentCard && animation.transition(currentCard, {
+                styles: {
+                    transform: 'scale(' + currentCardScale + ')'
+                },
+                timingFunction: 'ease',
+                duration: duration
+            }, function () {});
+
+            var leftCard = this.$refs['card' + this.loopedIndex(originIndex - 1, this.cardLength) + '_' + this.sliderId][0];
+            if (this.moving && leftCard && originIndex !== 0) {
+                animation.transition(leftCard, {
+                    styles: {
+                        transform: 'scale(' + leftCardScale + ')'
+                    },
+                    timingFunction: 'ease',
+                    duration: duration
+                }, function () {});
+            }
+            var rightCard = this.$refs['card' + this.loopedIndex(originIndex + 1, this.cardLength) + '_' + this.sliderId][0];
+            if (rightCard && originIndex !== this.cardLength - 1) {
+                animation.transition(rightCard, {
+                    styles: {
+                        transform: 'scale(' + rightCardScale + ')'
+                    },
+                    timingFunction: 'ease',
+                    duration: duration
+                }, function () {});
+            }
+
+            var sliderCtn = this.$refs['sliderCtn_' + this.sliderId];
+            sliderCtn && animation.transition(sliderCtn, {
+                styles: {
+                    transform: 'translateX(-' + selectIndex * (this.cardS.width + this.cardS.spacing) + 'px)'
+                },
+                timingFunction: 'ease',
+                duration: duration
+            }, function () {
+                _this5.moving = false;
+                if (originIndex !== selectIndex) {
+                    _this5.currentIndex = selectIndex;
+                }
+            });
+        },
+
+        // 使index维持在0-length之间循环
+        loopedIndex: function loopedIndex(index, total) {
+            if (index < 0) {
+                index = index + (1 - index / total) * total;
+            }
+            return index % total;
+        },
+        bindExp: function bindExp(element) {
+            var _this6 = this;
+
+            if (element && element.ref && !this.moving) {
+                this.startTime = Date.now();
+                var index = this.loopedIndex(this.currentIndex, this.cardLength);
+                var sliderCtn = this.$refs['sliderCtn_' + this.sliderId];
+                var currentCard = this.$refs['card' + index + '_' + this.sliderId][0];
+                var rightCard = null;
+                var leftCard = null;
+                var currentCardLeft = this.currentIndex * (this.cardS.width + this.cardS.spacing);
+                // 卡片容器
+                // x - currentCardLeft
+                var sliderCtnExpOri = 'x - ' + currentCardLeft;
+                var sliderCtnExp = '{"type":"-","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + currentCardLeft + '}]}';
+                var args = [{
+                    element: sliderCtn.ref,
+                    property: 'transform.translateX',
+                    expression: sliderCtnExp,
+                    'ori_expression': sliderCtnExpOri
+                }];
+
+                if (this.cardS.scale !== 1) {
+                    // 当前显示的卡片
+                    // 1-abs(x)/588*${1-this.cardS.scale}
+                    var currentCardExpOri = '1-abs(x)/' + this.cardS.width + '*' + (1 - this.cardS.scale);
+                    var currentCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"Identifier","value":"x"}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
+                    args.push({
+                        element: currentCard.ref,
+                        property: 'transform.scale',
+                        expression: currentCardExp,
+                        'ori_expression': currentCardExpOri
+                    });
+
+                    if (index === 0 && this.$refs['card' + (index + 1) + '_' + this.sliderId]) {
+                        // 右边卡片
+                        rightCard = this.$refs['card' + (index + 1) + '_' + this.sliderId][0];
+                        // 1-abs(588+x)/588*${1-this.cardS.scale}
+                        var rightCardExpOri = '{sx: 1-abs(' + this.cardS.width + '+x)/' + this.cardS.width + '*' + (1 - this.cardS.scale) + ', sy: 1-abs(' + this.cardS.width + '+x)/' + this.cardS.width + '*' + (1 - this.cardS.scale) + '}';
+                        var rightCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"+","children":[{"type":"NumericLiteral","value":' + this.cardS.width + '},{"type":"Identifier","value":"x"}]}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
+                        args.push({
+                            element: rightCard.ref,
+                            property: 'transform.scale',
+                            expression: rightCardExp,
+                            'ori_expression': rightCardExpOri
+                        });
+                    } else if (index === this.cardLength - 1 && this.$refs['card' + (index - 1) + '_' + this.sliderId]) {
+                        // 左边的卡片
+                        leftCard = this.$refs['card' + (index - 1) + '_' + this.sliderId][0];
+                        // 1-abs(x-${this.cardS.width})/${this.cardS.width}*${1-this.cardS.scale}
+                        var leftCardExpOri = '{sx: 1-abs(x-' + this.cardS.width + ')/' + this.cardS.width + '*' + (1 - this.cardS.scale) + ', sy: 1-abs(x-' + this.cardS.width + ')/' + this.cardS.width + '*' + (1 - this.cardS.scale) + '}';
+                        var leftCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"-","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + this.cardS.width + '}]}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
+                        args.push({
+                            element: leftCard.ref,
+                            property: 'transform.scale',
+                            expression: leftCardExp,
+                            'ori_expression': leftCardExpOri
+                        });
+                    } else if (this.$refs['card' + (index - 1) + '_' + this.sliderId]) {
+                        // 左边卡片
+                        leftCard = this.$refs['card' + (index - 1) + '_' + this.sliderId][0];
+                        // 1-abs(x-${this.cardS.width})/${this.cardS.width}*${1-this.cardS.scale}
+                        var _leftCardExpOri = '{sx: 1-abs(x-' + this.cardS.width + ')/' + this.cardS.width + '*' + (1 - this.cardS.scale) + ', sy: 1-abs(x-' + this.cardS.width + ')/' + this.cardS.width + '*' + (1 - this.cardS.scale) + '}';
+                        var _leftCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"-","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + this.cardS.width + '}]}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
+
+                        args.push({
+                            element: leftCard.ref,
+                            property: 'transform.scale',
+                            expression: _leftCardExp,
+                            'ori_expression': _leftCardExpOri
+                        });
+
+                        // 右边卡片
+                        rightCard = this.$refs['card' + (index + 1) + '_' + this.sliderId][0];
+                        // 1-abs(${this.cardS.width}+x)/${this.cardS.width}*${1-this.cardS.scale}
+                        var _rightCardExpOri = '{sx: 1-abs(' + this.cardS.width + '+x)/' + this.cardS.width + '*' + (1 - this.cardS.scale) + ', sy: 1-abs(' + this.cardS.width + '+x)/' + this.cardS.width + '*' + (1 - this.cardS.scale) + '}';
+                        var _rightCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"+","children":[{"type":"NumericLiteral","value":' + this.cardS.width + '},{"type":"Identifier","value":"x"}]}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
+                        args.push({
+                            element: rightCard.ref,
+                            property: 'transform.scale',
+                            expression: _rightCardExp,
+                            'ori_expression': _rightCardExpOri
+                        });
+                    }
+                }
+                expressionBinding.createBinding(element.ref, 'pan', '', args, function (e) {
+                    if (!_this6.moving) {
+                        _this6.panEnd(e);
+                    }
+                });
+            }
+        },
+        checkNeedAutoPlay: function checkNeedAutoPlay() {
+            var _this7 = this;
+
+            if (this.autoPlay) {
+                this.clearAutoPlay();
+                this.autoPlayTimer = setInterval(function () {
+                    _this7.slideTo(_this7.currentIndex, _this7.loopedIndex(_this7.currentIndex + 1, _this7.cardLength));
+                }, parseInt(this.interval));
+            }
+        },
+        clearAutoPlay: function clearAutoPlay() {
+            this.autoPlayTimer && clearInterval(this.autoPlayTimer);
+        },
+
+        // ios下当放在list中，cell被回收后，再次出现的时候需要重新为容器绑定下pan事情
+        rebind: function rebind() {
+            var sliderCtn = this.$refs['sliderCtn_' + this.sliderId];
+            if (sliderCtn && sliderCtn.ref) {
+                expressionBinding.disableBinding(sliderCtn.ref, 'pan');
+                expressionBinding.enableBinding(sliderCtn.ref, 'pan');
+            }
+        },
+        manualSetPage: function manualSetPage(selectIndex) {
+            var _this8 = this;
+
+            this.clearAutoPlay();
+            var step = this.currentIndex < selectIndex ? 1 : -1;
+            this.slideTo(this.loopedIndex(selectIndex - step, this.cardLength), selectIndex);
+            setTimeout(function () {
+                _this8.checkNeedAutoPlay();
+            }, 3000);
         }
-      });
-    },
-
-    // 使index维持在0-length之间循环
-    loopedIndex: function loopedIndex(index, total) {
-      if (index < 0) {
-        index = index + (1 - index / total) * total;
-      }
-      return index % total;
-    },
-    bindExp: function bindExp(element) {
-      var _this6 = this;
-
-      if (element && element.ref && !this.moving) {
-        this.startTime = Date.now();
-        var index = this.loopedIndex(this.currentIndex, this.cardLength);
-        var sliderCtn = this.$refs['sliderCtn_' + this.sliderId];
-        var currentCard = this.$refs['card' + index + '_' + this.sliderId][0];
-        var rightCard = null;
-        var leftCard = null;
-        var currentCardLeft = this.currentIndex * (this.cardS.width + this.cardS.spacing);
-        // 卡片容器
-        // x - currentCardLeft
-        var sliderCtnExpOri = 'x - ' + currentCardLeft;
-        var sliderCtnExp = '{"type":"-","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + currentCardLeft + '}]}';
-        var args = [{
-          element: sliderCtn.ref,
-          property: 'transform.translateX',
-          expression: sliderCtnExp,
-          'ori_expression': sliderCtnExpOri
-        }];
-
-        if (this.cardS.scale !== 1) {
-          // 当前显示的卡片
-          // 1-abs(x)/588*${1-this.cardS.scale}
-          var currentCardExpOri = '1-abs(x)/' + this.cardS.width + '*' + (1 - this.cardS.scale);
-          var currentCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"Identifier","value":"x"}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
-          args.push({
-            element: currentCard.ref,
-            property: 'transform.scale',
-            expression: currentCardExp,
-            'ori_expression': currentCardExpOri
-          });
-
-          if (index === 0 && this.$refs['card' + (index + 1) + '_' + this.sliderId]) {
-            // 右边卡片
-            rightCard = this.$refs['card' + (index + 1) + '_' + this.sliderId][0];
-            // 1-abs(588+x)/588*${1-this.cardS.scale}
-            var rightCardExpOri = '{sx: 1-abs(' + this.cardS.width + '+x)/' + this.cardS.width + '*' + (1 - this.cardS.scale) + ', sy: 1-abs(' + this.cardS.width + '+x)/' + this.cardS.width + '*' + (1 - this.cardS.scale) + '}';
-            var rightCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"+","children":[{"type":"NumericLiteral","value":' + this.cardS.width + '},{"type":"Identifier","value":"x"}]}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
-            args.push({
-              element: rightCard.ref,
-              property: 'transform.scale',
-              expression: rightCardExp,
-              'ori_expression': rightCardExpOri
-            });
-          } else if (index === this.cardLength - 1 && this.$refs['card' + (index - 1) + '_' + this.sliderId]) {
-            // 左边的卡片
-            leftCard = this.$refs['card' + (index - 1) + '_' + this.sliderId][0];
-            // 1-abs(x-${this.cardS.width})/${this.cardS.width}*${1-this.cardS.scale}
-            var leftCardExpOri = '{sx: 1-abs(x-' + this.cardS.width + ')/' + this.cardS.width + '*' + (1 - this.cardS.scale) + ', sy: 1-abs(x-' + this.cardS.width + ')/' + this.cardS.width + '*' + (1 - this.cardS.scale) + '}';
-            var leftCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"-","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + this.cardS.width + '}]}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
-            args.push({
-              element: leftCard.ref,
-              property: 'transform.scale',
-              expression: leftCardExp,
-              'ori_expression': leftCardExpOri
-            });
-          } else if (this.$refs['card' + (index - 1) + '_' + this.sliderId]) {
-            // 左边卡片
-            leftCard = this.$refs['card' + (index - 1) + '_' + this.sliderId][0];
-            // 1-abs(x-${this.cardS.width})/${this.cardS.width}*${1-this.cardS.scale}
-            var _leftCardExpOri = '{sx: 1-abs(x-' + this.cardS.width + ')/' + this.cardS.width + '*' + (1 - this.cardS.scale) + ', sy: 1-abs(x-' + this.cardS.width + ')/' + this.cardS.width + '*' + (1 - this.cardS.scale) + '}';
-            var _leftCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"-","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + this.cardS.width + '}]}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
-
-            args.push({
-              element: leftCard.ref,
-              property: 'transform.scale',
-              expression: _leftCardExp,
-              'ori_expression': _leftCardExpOri
-            });
-
-            // 右边卡片
-            rightCard = this.$refs['card' + (index + 1) + '_' + this.sliderId][0];
-            // 1-abs(${this.cardS.width}+x)/${this.cardS.width}*${1-this.cardS.scale}
-            var _rightCardExpOri = '{sx: 1-abs(' + this.cardS.width + '+x)/' + this.cardS.width + '*' + (1 - this.cardS.scale) + ', sy: 1-abs(' + this.cardS.width + '+x)/' + this.cardS.width + '*' + (1 - this.cardS.scale) + '}';
-            var _rightCardExp = '{"type":"-","children":[{"type":"NumericLiteral","value":1},{"type":"*","children":[{"type":"/","children":[{"type":"CallExpression","children":[{"type":"Identifier","value":"abs"},{"type":"Arguments","children":[{"type":"+","children":[{"type":"NumericLiteral","value":' + this.cardS.width + '},{"type":"Identifier","value":"x"}]}]}]},{"type":"NumericLiteral","value":' + this.cardS.width + '}]},{"type":"NumericLiteral","value":' + (1 - this.cardS.scale) + '}]}]}';
-            args.push({
-              element: rightCard.ref,
-              property: 'transform.scale',
-              expression: _rightCardExp,
-              'ori_expression': _rightCardExpOri
-            });
-          }
-        }
-        expressionBinding.createBinding(element.ref, 'pan', '', args, function (e) {
-          if (!_this6.moving) {
-            _this6.panEnd(e);
-          }
-        });
-      }
-    },
-    checkNeedAutoPlay: function checkNeedAutoPlay() {
-      var _this7 = this;
-
-      if (this.autoPlay) {
-        this.clearAutoPlay();
-        this.autoPlayTimer = setInterval(function () {
-          _this7.slideTo(_this7.currentIndex, _this7.loopedIndex(_this7.currentIndex + 1, _this7.cardLength));
-        }, parseInt(this.interval));
-      }
-    },
-    clearAutoPlay: function clearAutoPlay() {
-      this.autoPlayTimer && clearInterval(this.autoPlayTimer);
-    },
-
-    // ios下当放在list中，cell被回收后，再次出现的时候需要重新为容器绑定下pan事情
-    rebind: function rebind() {
-      var sliderCtn = this.$refs['sliderCtn_' + this.sliderId];
-      if (sliderCtn && sliderCtn.ref) {
-        expressionBinding.disableBinding(sliderCtn.ref, 'pan');
-        expressionBinding.enableBinding(sliderCtn.ref, 'pan');
-      }
-    },
-    manualSetPage: function manualSetPage(selectIndex) {
-      var _this8 = this;
-
-      this.clearAutoPlay();
-      var step = this.currentIndex < selectIndex ? 1 : -1;
-      this.slideTo(this.loopedIndex(selectIndex - step, this.cardLength), selectIndex);
-      setTimeout(function () {
-        _this8.checkNeedAutoPlay();
-      }, 3000);
     }
-  }
 };
 
 /***/ }),
@@ -6603,7 +6610,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; //
@@ -6626,72 +6633,75 @@ var _type2 = _interopRequireDefault(_type);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var dom = weex.requireModule('dom');
+var dom = void 0;
 
 exports.default = {
-  props: {
-    name: {
-      default: 'success',
-      type: String
+    props: {
+        name: {
+            default: 'success',
+            type: String
+        },
+        size: {
+            default: 'small',
+            type: String
+        },
+        iconStyle: {
+            type: Object,
+            default: function _default() {
+                return {};
+            }
+        }
     },
-    size: {
-      default: 'small',
-      type: String
+    data: function data() {
+        return {
+            Icon: _type2.default
+        };
     },
-    iconStyle: {
-      type: Object,
-      default: function _default() {
-        return {};
-      }
-    }
-  },
-  data: function data() {
-    return {
-      Icon: _type2.default
-    };
-  },
-  beforeCreate: function beforeCreate() {
-    dom.addRule('fontFace', {
-      'fontFamily': "weexUiIconFont",
-      'src': "url('//at.alicdn.com/t/font_520368_r89ekv69euahsemi.ttf')"
-    });
-  },
+    beforeCreate: function beforeCreate() {
+        dom.addRule('fontFace', {
+            'fontFamily': "weexUiIconFont",
+            'src': "url('//at.alicdn.com/t/font_520368_r89ekv69euahsemi.ttf')"
+        });
+    },
+    created: function created() {
+        dom = weex.requireModule('dom');
+    },
 
-  computed: {
-    mergeStyle: function mergeStyle() {
-      var iconStyle = this.iconStyle,
-          size = this.size;
+    computed: {
+        mergeStyle: function mergeStyle() {
+            var iconStyle = this.iconStyle,
+                size = this.size;
 
-      var fontSize = '48px';
-      switch (size) {
-        case 'xs':
-          fontSize = '24px';
-          break;
-        case 'small':
-          fontSize = '48px';
-          break;
-        case 'medium':
-          fontSize = '72px';
-          break;
-        case 'big':
-          fontSize = '128px';
-          break;
-        default:
-          fontSize = '48px';
-      }
-      return _extends({
-        fontFamily: 'weexUiIconFont',
-        fontSize: fontSize
-      }, iconStyle);
+            var fontSize = '48px';
+            switch (size) {
+                case 'xs':
+                    fontSize = '24px';
+                    break;
+                case 'small':
+                    fontSize = '48px';
+                    break;
+                case 'medium':
+                    fontSize = '72px';
+                    break;
+                case 'big':
+                    fontSize = '128px';
+                    break;
+                default:
+                    fontSize = '48px';
+            }
+            return _extends({
+                fontFamily: 'weexUiIconFont',
+                fontSize: fontSize
+            }, iconStyle);
+        }
+    },
+    methods: {
+        itemClicked: function itemClicked(name) {
+            this.$emit('wxcIconClicked', {
+                name: name
+            });
+        }
     }
-  },
-  methods: {
-    itemClicked: function itemClicked(name) {
-      this.$emit('wxcIconClicked', {
-        name: name
-      });
-    }
-  }
 };
 
 /***/ }),
@@ -6702,7 +6712,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _format = __webpack_require__(45);
@@ -6783,90 +6793,95 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
 //
 //
 //
+//
+//
+//
+//
 
-var dom = weex.requireModule('dom');
+var dom = void 0;
 exports.default = {
-  props: {
-    height: {
-      type: [Number, String],
-      default: _utils2.default.env.getPageHeight()
+    props: {
+        height: {
+            type: [Number, String],
+            default: _utils2.default.env.getPageHeight()
+        },
+        normalList: {
+            type: Array,
+            default: function _default() {
+                return [];
+            }
+        },
+        onlyShowList: {
+            type: Boolean,
+            default: false
+        },
+        showIndex: {
+            type: Boolean,
+            default: true
+        },
+        navStyle: {
+            type: Object,
+            default: function _default() {
+                return {};
+            }
+        },
+        hotListConfig: {
+            type: Object,
+            default: function _default() {
+                return {};
+            }
+        },
+        // 城市选择子组件 特殊情况支持
+        cityLocationConfig: {
+            type: Object,
+            default: function _default() {
+                return {};
+            }
+        }
     },
-    normalList: {
-      type: Array,
-      default: function _default() {
-        return [];
-      }
+    created: function created() {
+        dom = weex.requireModule('dom');
+        this.isIPhoneX = _utils2.default.env.isIPhoneX();
     },
-    onlyShowList: {
-      type: Boolean,
-      default: false
-    },
-    showIndex: {
-      type: Boolean,
-      default: true
-    },
-    navStyle: {
-      type: Object,
-      default: function _default() {
-        return {};
-      }
-    },
-    hotListConfig: {
-      type: Object,
-      default: function _default() {
-        return {};
-      }
-    },
-    // 城市选择子组件 特殊情况支持
-    cityLocationConfig: {
-      type: Object,
-      default: function _default() {
-        return {};
-      }
-    }
-  },
-  created: function created() {
-    this.isIPhoneX = _utils2.default.env.isIPhoneX();
-  },
 
-  computed: {
-    formatList: function formatList() {
-      var normalList = this.normalList,
-          hotListConfig = this.hotListConfig,
-          cityLocationConfig = this.cityLocationConfig;
+    computed: {
+        formatList: function formatList() {
+            var normalList = this.normalList,
+                hotListConfig = this.hotListConfig,
+                cityLocationConfig = this.cityLocationConfig;
 
-      return Format.totalList(normalList, hotListConfig, cityLocationConfig);
-    }
-  },
-  data: function data() {
-    return {
-      popKeyShow: false,
-      popKey: '',
-      navOffsetY: 0,
-      timer: null
-    };
-  },
-  methods: {
-    itemClicked: function itemClicked(item) {
-      this.$emit('wxcIndexlistItemClicked', {
-        item: item
-      });
+            return Format.totalList(normalList, hotListConfig, cityLocationConfig);
+        }
     },
-    go2Key: function go2Key(key) {
-      var _this = this;
+    data: function data() {
+        return {
+            popKeyShow: false,
+            popKey: '',
+            navOffsetY: 0,
+            timer: null
+        };
+    },
+    methods: {
+        itemClicked: function itemClicked(item) {
+            this.$emit('wxcIndexlistItemClicked', {
+                item: item
+            });
+        },
+        go2Key: function go2Key(key) {
+            var _this = this;
 
-      var keyEl = this.$refs['index-item-title-' + key][0];
-      keyEl && dom.scrollToElement(keyEl, {
-        offset: 0
-      });
-      this.popKey = key;
-      this.popKeyShow = true;
-      this.timer && clearTimeout(this.timer);
-      this.timer = setTimeout(function () {
-        _this.popKeyShow = false;
-      }, 600);
+            var keyEl = this.$refs['index-item-title-' + key][0];
+            keyEl && dom.scrollToElement(keyEl, {
+                offset: 0
+            });
+            this.popKey = key;
+            this.popKeyShow = true;
+            this.timer && clearTimeout(this.timer);
+            this.timer = setTimeout(function () {
+                _this.popKeyShow = false;
+            }, 600);
+        }
     }
-  }
 };
 
 /***/ }),
@@ -7363,7 +7378,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
@@ -7439,173 +7454,176 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 //
 //
 
-var animation = weex.requireModule('animation');
+var animation = void 0;
 exports.default = {
-  components: { WxcOverlay: _wxcOverlay2.default },
-  props: {
-    height: {
-      type: [String, Number],
-      default: 800
+    components: { WxcOverlay: _wxcOverlay2.default },
+    props: {
+        height: {
+            type: [String, Number],
+            default: 800
+        },
+        width: {
+            type: [String, Number],
+            default: 702
+        },
+        show: {
+            type: Boolean,
+            default: false
+        },
+        showClose: {
+            type: Boolean,
+            default: false
+        },
+        duration: {
+            type: [String, Number],
+            default: 300
+        },
+        hasOverlay: {
+            type: Boolean,
+            default: true
+        },
+        hasAnimation: {
+            type: Boolean,
+            default: true
+        },
+        timingFunction: {
+            type: Array,
+            default: function _default() {
+                return ['ease-in', 'ease-out'];
+            }
+        },
+        overlayCfg: {
+            type: Object,
+            default: function _default() {
+                return {
+                    hasAnimation: true,
+                    timingFunction: ['ease-in', 'ease-out'],
+                    canAutoClose: true,
+                    duration: 300,
+                    opacity: 0.6
+                };
+            }
+        },
+        borderRadius: {
+            type: [String, Number],
+            default: 0
+        },
+        overlayCanClose: {
+            type: Boolean,
+            default: true
+        },
+        maskBgColor: {
+            type: String,
+            default: '#ffffff'
+        }
     },
-    width: {
-      type: [String, Number],
-      default: 702
-    },
-    show: {
-      type: Boolean,
-      default: false
-    },
-    showClose: {
-      type: Boolean,
-      default: false
-    },
-    duration: {
-      type: [String, Number],
-      default: 300
-    },
-    hasOverlay: {
-      type: Boolean,
-      default: true
-    },
-    hasAnimation: {
-      type: Boolean,
-      default: true
-    },
-    timingFunction: {
-      type: Array,
-      default: function _default() {
-        return ['ease-in', 'ease-out'];
-      }
-    },
-    overlayCfg: {
-      type: Object,
-      default: function _default() {
+    data: function data() {
         return {
-          hasAnimation: true,
-          timingFunction: ['ease-in', 'ease-out'],
-          canAutoClose: true,
-          duration: 300,
-          opacity: 0.6
+            closeIcon: 'https://gw.alicdn.com/tfs/TB1qDJUpwMPMeJjy1XdXXasrXXa-64-64.png',
+            maskTop: 264,
+            opened: false
         };
-      }
     },
-    borderRadius: {
-      type: [String, Number],
-      default: 0
+    computed: {
+        mergeOverlayCfg: function mergeOverlayCfg() {
+            return _extends({}, this.overlayCfg, {
+                hasAnimation: this.hasAnimation
+            });
+        },
+        maskStyle: function maskStyle() {
+            var width = this.width,
+                height = this.height,
+                showClose = this.showClose,
+                hasAnimation = this.hasAnimation,
+                opened = this.opened;
+
+            var newHeight = showClose ? height - 0 + 100 : height;
+            var _weex$config$env = weex.config.env,
+                deviceHeight = _weex$config$env.deviceHeight,
+                deviceWidth = _weex$config$env.deviceWidth,
+                platform = _weex$config$env.platform;
+
+            var _deviceHeight = deviceHeight || 1334;
+            var isWeb = (typeof window === 'undefined' ? 'undefined' : _typeof(window)) === 'object' && platform.toLowerCase() === 'web';
+            var navHeight = isWeb ? 0 : 130;
+            var pageHeight = _deviceHeight / deviceWidth * 750 - navHeight;
+            return {
+                width: width + 'px',
+                height: newHeight + 'px',
+                left: (750 - width) / 2 + 'px',
+                top: (pageHeight - height) / 2 + 'px',
+                opacity: hasAnimation && !opened ? 0 : 1
+            };
+        },
+        contentStyle: function contentStyle() {
+            return {
+                width: this.width + 'px',
+                backgroundColor: this.maskBgColor,
+                height: this.height + 'px',
+                borderRadius: this.borderRadius + 'px'
+            };
+        },
+        shouldShow: function shouldShow() {
+            var _this = this;
+
+            var show = this.show,
+                hasAnimation = this.hasAnimation;
+
+            hasAnimation && setTimeout(function () {
+                _this.appearMask(show);
+            }, 50);
+            return show;
+        }
     },
-    overlayCanClose: {
-      type: Boolean,
-      default: true
+    methods: {
+        closeIconClicked: function closeIconClicked() {
+            this.appearMask(false);
+        },
+        wxcOverlayBodyClicking: function wxcOverlayBodyClicking() {
+            if (this.hasAnimation) {
+                this.appearMask(false);
+                this.$emit('wxcOverlayBodyClicking', {});
+            }
+        },
+        wxcOverlayBodyClicked: function wxcOverlayBodyClicked() {
+            if (!this.hasAnimation) {
+                this.appearMask(false);
+                this.$emit('wxcOverlayBodyClicked', {});
+            }
+        },
+        needEmit: function needEmit() {
+            var bool = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : false;
+
+            this.opened = bool;
+            !bool && this.$emit('wxcMaskSetHidden', {});
+        },
+        appearMask: function appearMask(bool) {
+            var _this2 = this;
+
+            var duration = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : this.duration;
+            var hasAnimation = this.hasAnimation,
+                timingFunction = this.timingFunction;
+
+            var maskEl = this.$refs['wxc-mask'];
+            if (hasAnimation && maskEl) {
+                animation.transition(maskEl, {
+                    styles: {
+                        opacity: bool ? 1 : 0
+                    },
+                    duration: duration,
+                    timingFunction: timingFunction[bool ? 0 : 1],
+                    delay: 0
+                }, function () {
+                    _this2.needEmit(bool);
+                });
+            } else {
+                this.needEmit(bool);
+            }
+        }
     },
-    maskBgColor: {
-      type: String,
-      default: '#ffffff'
+    created: function created() {
+        animation = weex.requireModule('animation');
     }
-  },
-  data: function data() {
-    return {
-      closeIcon: 'https://gw.alicdn.com/tfs/TB1qDJUpwMPMeJjy1XdXXasrXXa-64-64.png',
-      maskTop: 264,
-      opened: false
-    };
-  },
-  computed: {
-    mergeOverlayCfg: function mergeOverlayCfg() {
-      return _extends({}, this.overlayCfg, {
-        hasAnimation: this.hasAnimation
-      });
-    },
-    maskStyle: function maskStyle() {
-      var width = this.width,
-          height = this.height,
-          showClose = this.showClose,
-          hasAnimation = this.hasAnimation,
-          opened = this.opened;
-
-      var newHeight = showClose ? height - 0 + 100 : height;
-      var _weex$config$env = weex.config.env,
-          deviceHeight = _weex$config$env.deviceHeight,
-          deviceWidth = _weex$config$env.deviceWidth,
-          platform = _weex$config$env.platform;
-
-      var _deviceHeight = deviceHeight || 1334;
-      var isWeb = (typeof window === 'undefined' ? 'undefined' : _typeof(window)) === 'object' && platform.toLowerCase() === 'web';
-      var navHeight = isWeb ? 0 : 130;
-      var pageHeight = _deviceHeight / deviceWidth * 750 - navHeight;
-      return {
-        width: width + 'px',
-        height: newHeight + 'px',
-        left: (750 - width) / 2 + 'px',
-        top: (pageHeight - height) / 2 + 'px',
-        opacity: hasAnimation && !opened ? 0 : 1
-      };
-    },
-    contentStyle: function contentStyle() {
-      return {
-        width: this.width + 'px',
-        backgroundColor: this.maskBgColor,
-        height: this.height + 'px',
-        borderRadius: this.borderRadius + 'px'
-      };
-    },
-    shouldShow: function shouldShow() {
-      var _this = this;
-
-      var show = this.show,
-          hasAnimation = this.hasAnimation;
-
-      hasAnimation && setTimeout(function () {
-        _this.appearMask(show);
-      }, 50);
-      return show;
-    }
-  },
-  methods: {
-    closeIconClicked: function closeIconClicked() {
-      this.appearMask(false);
-    },
-    wxcOverlayBodyClicking: function wxcOverlayBodyClicking() {
-      if (this.hasAnimation) {
-        this.appearMask(false);
-        this.$emit('wxcOverlayBodyClicking', {});
-      }
-    },
-    wxcOverlayBodyClicked: function wxcOverlayBodyClicked() {
-      if (!this.hasAnimation) {
-        this.appearMask(false);
-        this.$emit('wxcOverlayBodyClicked', {});
-      }
-    },
-    needEmit: function needEmit() {
-      var bool = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : false;
-
-      this.opened = bool;
-      !bool && this.$emit('wxcMaskSetHidden', {});
-    },
-    appearMask: function appearMask(bool) {
-      var _this2 = this;
-
-      var duration = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : this.duration;
-      var hasAnimation = this.hasAnimation,
-          timingFunction = this.timingFunction;
-
-      var maskEl = this.$refs['wxc-mask'];
-      if (hasAnimation && maskEl) {
-        animation.transition(maskEl, {
-          styles: {
-            opacity: bool ? 1 : 0
-          },
-          duration: duration,
-          timingFunction: timingFunction[bool ? 0 : 1],
-          delay: 0
-        }, function () {
-          _this2.needEmit(bool);
-        });
-      } else {
-        this.needEmit(bool);
-      }
-    }
-  }
 };
 
 /***/ }),
@@ -7616,7 +7634,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 //
 //
@@ -7695,62 +7713,67 @@ Object.defineProperty(exports, "__esModule", {
 //
 //
 //
+//
+//
 
-var Navigator = weex.requireModule('navigator');
+var Navigator = void 0;
 exports.default = {
-  props: {
-    backgroundColor: {
-      type: String,
-      default: '#FFC900'
+    props: {
+        backgroundColor: {
+            type: String,
+            default: '#FFC900'
+        },
+        leftButton: {
+            type: String,
+            default: 'https://gw.alicdn.com/tfs/TB1x18VpwMPMeJjy1XdXXasrXXa-21-36.png'
+        },
+        textColor: {
+            type: String,
+            default: '#3D3D3D'
+        },
+        rightButton: {
+            type: String,
+            default: ''
+        },
+        title: {
+            type: String,
+            default: '标题'
+        },
+        leftText: {
+            type: String,
+            default: ''
+        },
+        rightText: {
+            type: String,
+            default: ''
+        },
+        useDefaultReturn: {
+            type: Boolean,
+            default: true
+        },
+        show: {
+            type: Boolean,
+            default: true
+        }
     },
-    leftButton: {
-      type: String,
-      default: 'https://gw.alicdn.com/tfs/TB1x18VpwMPMeJjy1XdXXasrXXa-21-36.png'
+    methods: {
+        leftButtonClicked: function leftButtonClicked() {
+            var self = this;
+            if (self.useDefaultReturn) {
+                Navigator.pop({}, function (e) {});
+            }
+            self.$emit('wxcMinibarLeftButtonClicked', {});
+        },
+        rightButtonClicked: function rightButtonClicked() {
+            var self = this;
+            if (self.rightText || self.rightButton) {
+                self.$emit('wxcMinibarRightButtonClicked', {});
+            }
+        }
     },
-    textColor: {
-      type: String,
-      default: '#3D3D3D'
-    },
-    rightButton: {
-      type: String,
-      default: ''
-    },
-    title: {
-      type: String,
-      default: '标题'
-    },
-    leftText: {
-      type: String,
-      default: ''
-    },
-    rightText: {
-      type: String,
-      default: ''
-    },
-    useDefaultReturn: {
-      type: Boolean,
-      default: true
-    },
-    show: {
-      type: Boolean,
-      default: true
+    created: function created() {
+        Navigator = weex.requireModule('navigator');
     }
-  },
-  methods: {
-    leftButtonClicked: function leftButtonClicked() {
-      var self = this;
-      if (self.useDefaultReturn) {
-        Navigator.pop({}, function (e) {});
-      }
-      self.$emit('wxcMinibarLeftButtonClicked', {});
-    },
-    rightButtonClicked: function rightButtonClicked() {
-      var self = this;
-      if (self.rightText || self.rightButton) {
-        self.$emit('wxcMinibarRightButtonClicked', {});
-      }
-    }
-  }
 };
 
 /***/ }),
@@ -7951,7 +7974,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 //
 //
@@ -7981,86 +8004,89 @@ Object.defineProperty(exports, "__esModule", {
 //
 //
 
-var animation = weex.requireModule('animation');
+var animation = void 0;
 exports.default = {
-  props: {
-    show: {
-      type: Boolean,
-      default: true
+    props: {
+        show: {
+            type: Boolean,
+            default: true
+        },
+        hasAnimation: {
+            type: Boolean,
+            default: true
+        },
+        duration: {
+            type: [Number, String],
+            default: 300
+        },
+        timingFunction: {
+            type: Array,
+            default: function _default() {
+                return ['ease-in', 'ease-out'];
+            }
+        },
+        opacity: {
+            type: [Number, String],
+            default: 0.6
+        },
+        canAutoClose: {
+            type: Boolean,
+            default: true
+        }
     },
-    hasAnimation: {
-      type: Boolean,
-      default: true
+    computed: {
+        overlayStyle: function overlayStyle() {
+            return {
+                opacity: this.hasAnimation ? 0 : 1,
+                backgroundColor: 'rgba(0, 0, 0,' + this.opacity + ')'
+            };
+        },
+        shouldShow: function shouldShow() {
+            var _this = this;
+
+            var show = this.show,
+                hasAnimation = this.hasAnimation;
+
+            hasAnimation && setTimeout(function () {
+                _this.appearOverlay(show);
+            }, 50);
+            return show;
+        }
     },
-    duration: {
-      type: [Number, String],
-      default: 300
+    methods: {
+        overlayClicked: function overlayClicked(e) {
+            this.canAutoClose ? this.appearOverlay(false) : this.$emit('wxcOverlayBodyClicked', {});
+        },
+        appearOverlay: function appearOverlay(bool) {
+            var _this2 = this;
+
+            var duration = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : this.duration;
+            var hasAnimation = this.hasAnimation,
+                timingFunction = this.timingFunction,
+                canAutoClose = this.canAutoClose;
+
+            var needEmit = !bool && canAutoClose;
+            needEmit && this.$emit('wxcOverlayBodyClicking', {});
+            var overlayEl = this.$refs['wxc-overlay'];
+            if (hasAnimation && overlayEl) {
+                animation.transition(overlayEl, {
+                    styles: {
+                        opacity: bool ? 1 : 0
+                    },
+                    duration: duration,
+                    timingFunction: timingFunction[bool ? 0 : 1],
+                    delay: 0
+                }, function () {
+                    needEmit && _this2.$emit('wxcOverlayBodyClicked', {});
+                });
+            } else {
+                needEmit && this.$emit('wxcOverlayBodyClicked', {});
+            }
+        }
     },
-    timingFunction: {
-      type: Array,
-      default: function _default() {
-        return ['ease-in', 'ease-out'];
-      }
-    },
-    opacity: {
-      type: [Number, String],
-      default: 0.6
-    },
-    canAutoClose: {
-      type: Boolean,
-      default: true
+    created: function created() {
+        animation = weex.requireModule('animation');
     }
-  },
-  computed: {
-    overlayStyle: function overlayStyle() {
-      return {
-        opacity: this.hasAnimation ? 0 : 1,
-        backgroundColor: 'rgba(0, 0, 0,' + this.opacity + ')'
-      };
-    },
-    shouldShow: function shouldShow() {
-      var _this = this;
-
-      var show = this.show,
-          hasAnimation = this.hasAnimation;
-
-      hasAnimation && setTimeout(function () {
-        _this.appearOverlay(show);
-      }, 50);
-      return show;
-    }
-  },
-  methods: {
-    overlayClicked: function overlayClicked(e) {
-      this.canAutoClose ? this.appearOverlay(false) : this.$emit('wxcOverlayBodyClicked', {});
-    },
-    appearOverlay: function appearOverlay(bool) {
-      var _this2 = this;
-
-      var duration = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : this.duration;
-      var hasAnimation = this.hasAnimation,
-          timingFunction = this.timingFunction,
-          canAutoClose = this.canAutoClose;
-
-      var needEmit = !bool && canAutoClose;
-      needEmit && this.$emit('wxcOverlayBodyClicking', {});
-      var overlayEl = this.$refs['wxc-overlay'];
-      if (hasAnimation && overlayEl) {
-        animation.transition(overlayEl, {
-          styles: {
-            opacity: bool ? 1 : 0
-          },
-          duration: duration,
-          timingFunction: timingFunction[bool ? 0 : 1],
-          delay: 0
-        }, function () {
-          needEmit && _this2.$emit('wxcOverlayBodyClicked', {});
-        });
-      } else {
-        needEmit && this.$emit('wxcOverlayBodyClicked', {});
-      }
-    }
-  }
 };
 
 /***/ }),
@@ -8071,7 +8097,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _format = __webpack_require__(50);
@@ -8131,210 +8157,214 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
 //
 //
 //
+//
+//
 
 var isWeb = _utils2.default.env.isWeb();
 
-var animation = weex.requireModule('animation');
-var dom = weex.requireModule('dom');
+var animation = void 0,
+    dom = void 0;
 
 exports.default = {
-  components: { WxcMinibar: _wxcMinibar2.default },
-  props: {
-    selectedDate: Array,
-    dateRange: {
-      type: Array,
-      required: true,
-      default: function _default() {
-        return [];
-      }
-    },
-    minibarCfg: {
-      type: Object,
-      default: function _default() {
-        return {
-          'title': '选择日期',
-          'background-color': '#FFC900',
-          'text-color': '#3D3D3D'
-        };
-      }
-    },
-    showHeader: {
-      type: Boolean,
-      default: false
-    },
-    selectedNote: {
-      type: Array,
-      default: function _default() {
-        return ['开始', '到达', '往返'];
-      }
-    },
-    isRange: {
-      type: Boolean,
-      default: false
-    },
-    needDestroy: {
-      type: Boolean,
-      default: false
-    },
-    descList: {
-      type: Array,
-      default: function _default() {
-        return [];
-      }
-    }
-  },
-  data: function data() {
-    return {
-      isShow: false,
-      reSelect: true,
-      today: Format.getToDay(),
-      departDate: '',
-      arriveDate: ''
-    };
-  },
-  computed: {
-    monthsArray: function monthsArray() {
-      var range = this.dateRange,
-          today = this.today,
-          departDate = this.departDate,
-          arriveDate = this.arriveDate,
-          selectedNote = this.selectedNote,
-          descList = this.descList;
-
-      var param = { range: range, today: today, departDate: departDate, arriveDate: arriveDate, selectedNote: selectedNote, descList: descList };
-      return Format.generateDateCell(param);
-    }
-  },
-  created: function created() {
-    this.isIPhoneX = _utils2.default.env.isIPhoneX();
-    this.showTitle = isWeb || this.showHeader;
-    this.detectShow();
-  },
-  mounted: function mounted() {
-    var _this = this;
-
-    var needDestroy = this.needDestroy;
-
-    var hold = isWeb ? 700 : 100;
-    !needDestroy && setTimeout(function () {
-      _this.isShow = true;
-      _this.scrollToDate();
-    }, hold);
-  },
-
-  watch: {
-    needDestroy: function needDestroy(newVal, preVal) {
-      var _this2 = this;
-
-      if (!newVal && newVal !== preVal) {
-        setTimeout(function () {
-          _this2.isShow = true;
-        }, 200);
-      }
-    }
-  },
-  methods: {
-    minibarLeftButtonClick: function minibarLeftButtonClick() {
-      var _this3 = this;
-
-      setTimeout(function () {
-        _this3.hide();
-        _this3.$emit('wxcPageCalendarBackClicked', {});
-      }, 100);
-    },
-    onClickDate: function onClickDate(datConfig) {
-      var self = this;
-      if (datConfig.disabled || datConfig.isEmpty) return;
-
-      if (self.reSelect) {
-        self.departDate = '';
-        self.arriveDate = '';
-        self.reSelect = false;
-      }
-
-      if (self.isRange) {
-        if (self.departDate && Date.parse(self.departDate) <= Date.parse(datConfig.date)) {
-          self.arriveDate = datConfig.date;
-        } else {
-          self.departDate = datConfig.date;
-        }
-        if (self.departDate && self.arriveDate) {
-          self.dispatchDateChange([self.departDate, self.arriveDate]);
-        }
-      } else {
-        self.departDate = datConfig.date;
-        self.dispatchDateChange([self.departDate]);
-      }
-    },
-    scrollToDate: function scrollToDate() {
-      var _this4 = this;
-
-      setTimeout(function () {
-        if (_this4.departDate) {
-          var el = _this4.$refs.departDate[0];
-          el && dom.getComponentRect && dom.getComponentRect(el, function (e) {
-            if (e && e.result) {
-              var bottom = e.size.bottom;
-              var env = weex.config.env;
-              // 误差
-
-              var height = env.deviceHeight / env.deviceWidth * 750 - 50;
-              if (bottom > height || bottom === 0) {
-                dom.scrollToElement(el, { offset: -146, animated: false });
-              }
+    components: { WxcMinibar: _wxcMinibar2.default },
+    props: {
+        selectedDate: Array,
+        dateRange: {
+            type: Array,
+            required: true,
+            default: function _default() {
+                return [];
             }
-          });
-        }
-      }, 10);
-    },
-    dispatchDateChange: function dispatchDateChange(dateArr) {
-      var _this5 = this;
-
-      var duration = isWeb ? 400 : 600;
-      setTimeout(function () {
-        _this5.hide();
-      }, duration);
-      this.$emit('wxcPageCalendarDateSelected', {
-        date: dateArr
-      });
-    },
-    detectShow: function detectShow() {
-      if (this.isRange && this.selectedDate.length >= 2) {
-        this.departDate = this.selectedDate[0];
-        this.arriveDate = this.selectedDate[1];
-      } else if (this.selectedDate.length >= 1) {
-        this.departDate = this.selectedDate[0];
-        this.arriveDate = '';
-      }
-    },
-    _animate: function _animate() {
-      var width = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 0;
-
-      var duration = isWeb ? 200 : 300;
-      animation.transition(this.$refs.pageCalendar, {
-        styles: {
-          transform: 'translateX(' + -width + 'px)'
         },
-        timingFunction: 'ease-out',
-        duration: duration
-      }, function () {});
+        minibarCfg: {
+            type: Object,
+            default: function _default() {
+                return {
+                    'title': '选择日期',
+                    'background-color': '#FFC900',
+                    'text-color': '#3D3D3D'
+                };
+            }
+        },
+        showHeader: {
+            type: Boolean,
+            default: false
+        },
+        selectedNote: {
+            type: Array,
+            default: function _default() {
+                return ['开始', '到达', '往返'];
+            }
+        },
+        isRange: {
+            type: Boolean,
+            default: false
+        },
+        needDestroy: {
+            type: Boolean,
+            default: false
+        },
+        descList: {
+            type: Array,
+            default: function _default() {
+                return [];
+            }
+        }
     },
-    show: function show() {
-      var needDestroy = this.needDestroy;
+    data: function data() {
+        return {
+            isShow: false,
+            reSelect: true,
+            today: Format.getToDay(),
+            departDate: '',
+            arriveDate: ''
+        };
+    },
+    computed: {
+        monthsArray: function monthsArray() {
+            var range = this.dateRange,
+                today = this.today,
+                departDate = this.departDate,
+                arriveDate = this.arriveDate,
+                selectedNote = this.selectedNote,
+                descList = this.descList;
 
-      needDestroy && (this.isShow = true);
-      this.reSelect = true;
-      this.detectShow();
-      this._animate(750);
-      needDestroy && this.scrollToDate();
+            var param = { range: range, today: today, departDate: departDate, arriveDate: arriveDate, selectedNote: selectedNote, descList: descList };
+            return Format.generateDateCell(param);
+        }
     },
-    hide: function hide() {
-      this.needDestroy && (this.isShow = false);
-      this.reSelect = false;
-      this._animate(0);
-      this.$emit('wxcPageCalendarHide', {});
+    created: function created() {
+        animation = weex.requireModule('animation');
+        dom = weex.requireModule('dom');
+        this.isIPhoneX = _utils2.default.env.isIPhoneX();
+        this.showTitle = isWeb || this.showHeader;
+        this.detectShow();
+    },
+    mounted: function mounted() {
+        var _this = this;
+
+        var needDestroy = this.needDestroy;
+
+        var hold = isWeb ? 700 : 100;
+        !needDestroy && setTimeout(function () {
+            _this.isShow = true;
+            _this.scrollToDate();
+        }, hold);
+    },
+
+    watch: {
+        needDestroy: function needDestroy(newVal, preVal) {
+            var _this2 = this;
+
+            if (!newVal && newVal !== preVal) {
+                setTimeout(function () {
+                    _this2.isShow = true;
+                }, 200);
+            }
+        }
+    },
+    methods: {
+        minibarLeftButtonClick: function minibarLeftButtonClick() {
+            var _this3 = this;
+
+            setTimeout(function () {
+                _this3.hide();
+                _this3.$emit('wxcPageCalendarBackClicked', {});
+            }, 100);
+        },
+        onClickDate: function onClickDate(datConfig) {
+            var self = this;
+            if (datConfig.disabled || datConfig.isEmpty) return;
+
+            if (self.reSelect) {
+                self.departDate = '';
+                self.arriveDate = '';
+                self.reSelect = false;
+            }
+
+            if (self.isRange) {
+                if (self.departDate && Date.parse(self.departDate) <= Date.parse(datConfig.date)) {
+                    self.arriveDate = datConfig.date;
+                } else {
+                    self.departDate = datConfig.date;
+                }
+                if (self.departDate && self.arriveDate) {
+                    self.dispatchDateChange([self.departDate, self.arriveDate]);
+                }
+            } else {
+                self.departDate = datConfig.date;
+                self.dispatchDateChange([self.departDate]);
+            }
+        },
+        scrollToDate: function scrollToDate() {
+            var _this4 = this;
+
+            setTimeout(function () {
+                if (_this4.departDate) {
+                    var el = _this4.$refs.departDate[0];
+                    el && dom.getComponentRect && dom.getComponentRect(el, function (e) {
+                        if (e && e.result) {
+                            var bottom = e.size.bottom;
+                            var env = weex.config.env;
+                            // 误差
+
+                            var height = env.deviceHeight / env.deviceWidth * 750 - 50;
+                            if (bottom > height || bottom === 0) {
+                                dom.scrollToElement(el, { offset: -146, animated: false });
+                            }
+                        }
+                    });
+                }
+            }, 10);
+        },
+        dispatchDateChange: function dispatchDateChange(dateArr) {
+            var _this5 = this;
+
+            var duration = isWeb ? 400 : 600;
+            setTimeout(function () {
+                _this5.hide();
+            }, duration);
+            this.$emit('wxcPageCalendarDateSelected', {
+                date: dateArr
+            });
+        },
+        detectShow: function detectShow() {
+            if (this.isRange && this.selectedDate.length >= 2) {
+                this.departDate = this.selectedDate[0];
+                this.arriveDate = this.selectedDate[1];
+            } else if (this.selectedDate.length >= 1) {
+                this.departDate = this.selectedDate[0];
+                this.arriveDate = '';
+            }
+        },
+        _animate: function _animate() {
+            var width = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 0;
+
+            var duration = isWeb ? 200 : 300;
+            animation.transition(this.$refs.pageCalendar, {
+                styles: {
+                    transform: 'translateX(' + -width + 'px)'
+                },
+                timingFunction: 'ease-out',
+                duration: duration
+            }, function () {});
+        },
+        show: function show() {
+            var needDestroy = this.needDestroy;
+
+            needDestroy && (this.isShow = true);
+            this.reSelect = true;
+            this.detectShow();
+            this._animate(750);
+            needDestroy && this.scrollToDate();
+        },
+        hide: function hide() {
+            this.needDestroy && (this.isShow = false);
+            this.reSelect = false;
+            this._animate(0);
+            this.$emit('wxcPageCalendarHide', {});
+        }
     }
-  }
 };
 
 /***/ }),
@@ -8345,7 +8375,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _utils = __webpack_require__(0);
@@ -8371,74 +8401,77 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 //
 //
 
-var expressionBinding = weex.requireModule('expressionBinding');
+var expressionBinding = void 0;
 exports.default = {
-  props: {
-    extId: {
-      type: [String, Number],
-      default: 0
-    },
-    url: {
-      type: String,
-      default: ''
-    }
-  },
-  data: function data() {
-    return {
-      isPanning: false,
-      appearMap: []
-    };
-  },
-  mounted: function mounted() {
-    var _this = this;
-
-    setTimeout(function () {
-      if (_utils2.default.env.supportsEBForAndroid()) {
-        var element = _this.$refs['wxc-pan-item'];
-        element && expressionBinding.enableBinding(element.ref, 'pan');
-      }
-    }, 300);
-  },
-
-  methods: {
-    itemClicked: function itemClicked() {
-      if (this.isPanning) {
-        return;
-      }
-      this.url && _utils2.default.goToH5Page(this.url, true);
-      this.$emit('wxcPanItemClicked', { extId: this.extId });
-    },
-    onItemAppear: function onItemAppear() {
-      var extId = this.extId;
-      if (!this.appearMap[extId] && _utils2.default.env.supportsEBForAndroid()) {
-        this.appearMap[extId] = true;
-        expressionBinding.enableBinding(this.$refs['wxc-pan-item-' + extId].ref, 'pan');
-      }
-    },
-    onItemDisAppear: function onItemDisAppear() {
-      var extId = this.extId;
-      if (this.appearMap[extId] && _utils2.default.env.supportsEBForAndroid()) {
-        this.appearMap[extId] = false;
-        expressionBinding.disableBinding(this.$refs['wxc-pan-item-' + extId].ref, 'pan');
-      }
-    },
-    dispatchPan: function dispatchPan(e) {
-      var _this2 = this;
-
-      var extId = this.extId;
-      if (_utils2.default.env.supportsEBForAndroid()) {
-        if (e.state === 'start') {
-          this.isPanning = true;
-          var element = this.$refs['wxc-pan-item-' + extId];
-          element && this.$emit('wxcPanItemPan', { element: element });
-        } else if (e.state === 'end') {
-          setTimeout(function () {
-            _this2.isPanning = false;
-          }, 50);
+    props: {
+        extId: {
+            type: [String, Number],
+            default: 0
+        },
+        url: {
+            type: String,
+            default: ''
         }
-      }
+    },
+    data: function data() {
+        return {
+            isPanning: false,
+            appearMap: []
+        };
+    },
+    created: function created() {
+        expressionBinding = weex.requireModule('expressionBinding');
+    },
+    mounted: function mounted() {
+        var _this = this;
+
+        setTimeout(function () {
+            if (_utils2.default.env.supportsEBForAndroid()) {
+                var element = _this.$refs['wxc-pan-item'];
+                element && expressionBinding.enableBinding(element.ref, 'pan');
+            }
+        }, 300);
+    },
+
+    methods: {
+        itemClicked: function itemClicked() {
+            if (this.isPanning) {
+                return;
+            }
+            this.url && _utils2.default.goToH5Page(this.url, true);
+            this.$emit('wxcPanItemClicked', { extId: this.extId });
+        },
+        onItemAppear: function onItemAppear() {
+            var extId = this.extId;
+            if (!this.appearMap[extId] && _utils2.default.env.supportsEBForAndroid()) {
+                this.appearMap[extId] = true;
+                expressionBinding.enableBinding(this.$refs['wxc-pan-item-' + extId].ref, 'pan');
+            }
+        },
+        onItemDisAppear: function onItemDisAppear() {
+            var extId = this.extId;
+            if (this.appearMap[extId] && _utils2.default.env.supportsEBForAndroid()) {
+                this.appearMap[extId] = false;
+                expressionBinding.disableBinding(this.$refs['wxc-pan-item-' + extId].ref, 'pan');
+            }
+        },
+        dispatchPan: function dispatchPan(e) {
+            var _this2 = this;
+
+            var extId = this.extId;
+            if (_utils2.default.env.supportsEBForAndroid()) {
+                if (e.state === 'start') {
+                    this.isPanning = true;
+                    var element = this.$refs['wxc-pan-item-' + extId];
+                    element && this.$emit('wxcPanItemPan', { element: element });
+                } else if (e.state === 'end') {
+                    setTimeout(function () {
+                        _this2.isPanning = false;
+                    }, 50);
+                }
+            }
+        }
     }
-  }
 };
 
 /***/ }),
@@ -8509,7 +8542,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
@@ -8576,166 +8609,169 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 //
 //
 
-var animation = weex.requireModule('animation');
+var animation = void 0;
 var platform = weex.config.env.platform;
 
 var isWeb = (typeof window === 'undefined' ? 'undefined' : _typeof(window)) === 'object' && platform.toLowerCase() === 'web';
 exports.default = {
-  components: { WxcOverlay: _wxcOverlay2.default },
-  props: {
-    show: {
-      type: Boolean,
-      default: false
-    },
-    pos: {
-      type: String,
-      default: 'bottom'
-    },
-    popupColor: {
-      type: String,
-      default: '#FFFFFF'
-    },
-    overlayCfg: {
-      type: Object,
-      default: function _default() {
-        return {
-          hasAnimation: true,
-          timingFunction: ['ease-in', 'ease-out'],
-          duration: 300,
-          opacity: 0.6
-        };
-      }
-    },
-    height: {
-      type: [Number, String],
-      default: 840
-    },
-    standOut: {
-      type: [Number, String],
-      default: 0
-    },
-    width: {
-      type: [Number, String],
-      default: 750
-    },
-    animation: {
-      type: Object,
-      default: function _default() {
-        return {
-          timingFunction: 'ease-in'
-        };
-      }
-    }
-  },
-  data: function data() {
-    return {
-      haveOverlay: true,
-      isOverShow: true
-    };
-  },
-  computed: {
-    isNeedShow: function isNeedShow() {
-      var _this = this;
-
-      setTimeout(function () {
-        _this.appearPopup(_this.show);
-      }, 50);
-      return this.show;
-    },
-    _height: function _height() {
-      this.appearPopup(this.show, 150);
-      return this.height;
-    },
-    transformValue: function transformValue() {
-      return this.getTransform(this.pos, this.width, this.height, true);
-    },
-    padStyle: function padStyle() {
-      var pos = this.pos,
-          width = this.width,
-          height = this.height,
-          popupColor = this.popupColor;
-
-      var style = {
-        width: width + 'px',
-        backgroundColor: popupColor
-      };
-      pos === 'top' && (style = _extends({}, style, {
-        top: -height + 'px',
-        height: height + 'px'
-      }));
-      pos === 'bottom' && (style = _extends({}, style, {
-        bottom: -height + 'px',
-        height: height + 'px'
-      }));
-      pos === 'left' && (style = _extends({}, style, {
-        left: -width + 'px'
-      }));
-      pos === 'right' && (style = _extends({}, style, {
-        right: -width + 'px'
-      }));
-      return style;
-    }
-  },
-  methods: {
-    handleTouchEnd: function handleTouchEnd(e) {
-      // 在支付宝上面有点击穿透问题
-      var platform = weex.config.env.platform;
-
-      platform === 'Web' && e.preventDefault && e.preventDefault();
-    },
-    hide: function hide() {
-      this.appearPopup(false);
-      this.$refs.overlay.appearOverlay(false);
-    },
-    wxcOverlayBodyClicking: function wxcOverlayBodyClicking() {
-      this.isShow && this.appearPopup(false);
-    },
-    appearPopup: function appearPopup(bool) {
-      var _this2 = this;
-
-      var duration = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 300;
-
-      this.isShow = bool;
-      var popupEl = this.$refs['wxc-popup'];
-      if (!popupEl) {
-        return;
-      }
-      animation.transition(popupEl, _extends({
-        styles: {
-          transform: this.getTransform(this.pos, this.width, this.height, !bool)
+    components: { WxcOverlay: _wxcOverlay2.default },
+    props: {
+        show: {
+            type: Boolean,
+            default: false
         },
-        duration: duration,
-        delay: 0
-      }, this.animation), function () {
-        if (!bool) {
-          _this2.$emit('wxcPopupOverlayClicked', { pos: _this2.pos });
+        pos: {
+            type: String,
+            default: 'bottom'
+        },
+        popupColor: {
+            type: String,
+            default: '#FFFFFF'
+        },
+        overlayCfg: {
+            type: Object,
+            default: function _default() {
+                return {
+                    hasAnimation: true,
+                    timingFunction: ['ease-in', 'ease-out'],
+                    duration: 300,
+                    opacity: 0.6
+                };
+            }
+        },
+        height: {
+            type: [Number, String],
+            default: 840
+        },
+        standOut: {
+            type: [Number, String],
+            default: 0
+        },
+        width: {
+            type: [Number, String],
+            default: 750
+        },
+        animation: {
+            type: Object,
+            default: function _default() {
+                return {
+                    timingFunction: 'ease-in'
+                };
+            }
         }
-      });
     },
-    getTransform: function getTransform(pos, width, height, bool) {
-      var _size = pos === 'top' || pos === 'bottom' ? height : width;
-      var _transform = void 0;
-      if (isWeb) {
-        _size -= this.standOut;
-      }
-      bool && (_size = 0);
-      switch (pos) {
-        case 'top':
-          _transform = 'translateY(' + _size + 'px)';
-          break;
-        case 'bottom':
-          _transform = 'translateY(-' + _size + 'px)';
-          break;
-        case 'left':
-          _transform = 'translateX(' + _size + 'px)';
-          break;
-        case 'right':
-          _transform = 'translateX(-' + _size + 'px)';
-          break;
-      }
-      return _transform;
+    data: function data() {
+        return {
+            haveOverlay: true,
+            isOverShow: true
+        };
+    },
+    computed: {
+        isNeedShow: function isNeedShow() {
+            var _this = this;
+
+            setTimeout(function () {
+                _this.appearPopup(_this.show);
+            }, 50);
+            return this.show;
+        },
+        _height: function _height() {
+            this.appearPopup(this.show, 150);
+            return this.height;
+        },
+        transformValue: function transformValue() {
+            return this.getTransform(this.pos, this.width, this.height, true);
+        },
+        padStyle: function padStyle() {
+            var pos = this.pos,
+                width = this.width,
+                height = this.height,
+                popupColor = this.popupColor;
+
+            var style = {
+                width: width + 'px',
+                backgroundColor: popupColor
+            };
+            pos === 'top' && (style = _extends({}, style, {
+                top: -height + 'px',
+                height: height + 'px'
+            }));
+            pos === 'bottom' && (style = _extends({}, style, {
+                bottom: -height + 'px',
+                height: height + 'px'
+            }));
+            pos === 'left' && (style = _extends({}, style, {
+                left: -width + 'px'
+            }));
+            pos === 'right' && (style = _extends({}, style, {
+                right: -width + 'px'
+            }));
+            return style;
+        }
+    },
+    methods: {
+        handleTouchEnd: function handleTouchEnd(e) {
+            // 在支付宝上面有点击穿透问题
+            var platform = weex.config.env.platform;
+
+            platform === 'Web' && e.preventDefault && e.preventDefault();
+        },
+        hide: function hide() {
+            this.appearPopup(false);
+            this.$refs.overlay.appearOverlay(false);
+        },
+        wxcOverlayBodyClicking: function wxcOverlayBodyClicking() {
+            this.isShow && this.appearPopup(false);
+        },
+        appearPopup: function appearPopup(bool) {
+            var _this2 = this;
+
+            var duration = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 300;
+
+            this.isShow = bool;
+            var popupEl = this.$refs['wxc-popup'];
+            if (!popupEl) {
+                return;
+            }
+            animation.transition(popupEl, _extends({
+                styles: {
+                    transform: this.getTransform(this.pos, this.width, this.height, !bool)
+                },
+                duration: duration,
+                delay: 0
+            }, this.animation), function () {
+                if (!bool) {
+                    _this2.$emit('wxcPopupOverlayClicked', { pos: _this2.pos });
+                }
+            });
+        },
+        getTransform: function getTransform(pos, width, height, bool) {
+            var _size = pos === 'top' || pos === 'bottom' ? height : width;
+            var _transform = void 0;
+            if (isWeb) {
+                _size -= this.standOut;
+            }
+            bool && (_size = 0);
+            switch (pos) {
+                case 'top':
+                    _transform = 'translateY(' + _size + 'px)';
+                    break;
+                case 'bottom':
+                    _transform = 'translateY(-' + _size + 'px)';
+                    break;
+                case 'left':
+                    _transform = 'translateX(' + _size + 'px)';
+                    break;
+                case 'right':
+                    _transform = 'translateX(-' + _size + 'px)';
+                    break;
+            }
+            return _transform;
+        }
+    },
+    created: function created() {
+        animation = weex.requireModule('animation');
     }
-  }
 };
 
 /***/ }),
@@ -10248,7 +10284,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 //
 //
@@ -10268,229 +10304,231 @@ Object.defineProperty(exports, "__esModule", {
 //
 //
 
-var DOM = weex.requireModule('dom');
-var Animation = weex.requireModule('animation');
+var DOM = void 0,
+    Animation = void 0;
 var OFFSET_ACCURACY = 10;
 var SCALE = weex.config.env.platform.toLowerCase() === 'web' ? 2 : 1;
 
 function _toNum(str) {
-  return typeof str === 'number' ? str : parseFloat((str || '').replace(/px$/i, ''));
+    return typeof str === 'number' ? str : parseFloat((str || '').replace(/px$/i, ''));
 }
 
 function _getHeight(element, callback) {
-  if (!element) {
-    return;
-  }
-  if (element.__cacheHeight) {
-    element.__cacheHeight && callback && callback(element.__cacheHeight);
-  } else {
-    DOM.getComponentRect(element, function (res) {
-      var height = (parseFloat(res && res.size && res.size.height) || 0) / SCALE;
-      height && callback && callback(element.__cacheHeight = height);
-    });
-  }
+    if (!element) {
+        return;
+    }
+    if (element.__cacheHeight) {
+        element.__cacheHeight && callback && callback(element.__cacheHeight);
+    } else {
+        DOM.getComponentRect(element, function (res) {
+            var height = (parseFloat(res && res.size && res.size.height) || 0) / SCALE;
+            height && callback && callback(element.__cacheHeight = height);
+        });
+    }
 }
 
 exports.default = {
 
-  props: {
-    position: {
-      'type': String,
-      'default': 'top'
+    props: {
+        position: {
+            'type': String,
+            'default': 'top'
+        },
+
+        height: [String, Number]
     },
 
-    height: [String, Number]
-  },
-
-  data: function data() {
-    return {
-      visible: true
-    };
-  },
-
-
-  watch: {
-    visible: function visible(newVal) {
-      newVal ? this._slideIn() : this._slideOut();
-    }
-  },
-
-  created: function created() {
-    this._height = _toNum(this.height) || 0;
-    this._isBottom = this.position === 'bottom';
-    this._direction = this._isBottom ? 1 : -1;
-  },
-
-
-  methods: {
-    _slideOut: function _slideOut() {
-      var _this = this;
-
-      this.getHeight(function (height) {
-        _this.$emit('slideOut');
-        _this.slideY(height * _this._direction * SCALE, function () {
-          _this.$emit('slideOutEnd');
-        });
-      });
+    data: function data() {
+        return {
+            visible: true
+        };
     },
-    _slideIn: function _slideIn() {
-      var _this2 = this;
 
-      this.getHeight(function (height) {
-        _this2.$emit('slideIn');
-        _this2.slideY(0, function () {
-          _this2.$emit('slideInEnd');
-        });
-      });
+
+    watch: {
+        visible: function visible(newVal) {
+            newVal ? this._slideIn() : this._slideOut();
+        }
     },
-    getHeight: function getHeight(callback) {
-      return _getHeight(this.$refs.wrapper, callback);
+
+    created: function created() {
+        Dom = weex.requireModule('dom');
+        Animation = weex.requireModule('animation');
+        this._height = _toNum(this.height) || 0;
+        this._isBottom = this.position === 'bottom';
+        this._direction = this._isBottom ? 1 : -1;
     },
-    slideOut: function slideOut() {
-      this.visible = false;
+
+
+    methods: {
+        _slideOut: function _slideOut() {
+            var _this = this;
+
+            this.getHeight(function (height) {
+                _this.$emit('slideOut');
+                _this.slideY(height * _this._direction * SCALE, function () {
+                    _this.$emit('slideOutEnd');
+                });
+            });
+        },
+        _slideIn: function _slideIn() {
+            var _this2 = this;
+
+            this.getHeight(function (height) {
+                _this2.$emit('slideIn');
+                _this2.slideY(0, function () {
+                    _this2.$emit('slideInEnd');
+                });
+            });
+        },
+        getHeight: function getHeight(callback) {
+            return _getHeight(this.$refs.wrapper, callback);
+        },
+        slideOut: function slideOut() {
+            this.visible = false;
+        },
+        slideIn: function slideIn() {
+            this.visible = true;
+        },
+        slideY: function slideY(y, callback) {
+            Animation.transition(this.$refs.wrapper, {
+                styles: { transform: 'translateY(' + y + 'px)' },
+                duration: 150, //ms
+                timingFunction: 'ease',
+                delay: 0 //ms
+            }, callback);
+        }
     },
-    slideIn: function slideIn() {
-      this.visible = true;
+
+    handleTouchStart: function handleTouchStart(e) {
+        var touch = e.changedTouches[0];
+        this._touchParams = {
+            pageY: touch.screenY,
+            startY: touch.screenY,
+            lastPageY: touch.screenY,
+            timeStamp: e.timeStamp,
+            direction: -1
+        };
     },
-    slideY: function slideY(y, callback) {
-      Animation.transition(this.$refs.wrapper, {
-        styles: { transform: 'translateY(' + y + 'px)' },
-        duration: 150, //ms
-        timingFunction: 'ease',
-        delay: 0 //ms
-      }, callback);
-    }
-  },
+    handleTouchMove: function handleTouchMove(e, bottomNav) {
+        var tp = this._touchParams;
+        var touch = e.changedTouches[0];
+        var offsetY = void 0;
 
-  handleTouchStart: function handleTouchStart(e) {
-    var touch = e.changedTouches[0];
-    this._touchParams = {
-      pageY: touch.screenY,
-      startY: touch.screenY,
-      lastPageY: touch.screenY,
-      timeStamp: e.timeStamp,
-      direction: -1
-    };
-  },
-  handleTouchMove: function handleTouchMove(e, bottomNav) {
-    var tp = this._touchParams;
-    var touch = e.changedTouches[0];
-    var offsetY = void 0;
+        // 安卓下滚动的时候经常不触发touchstart事件
+        if (!tp || tp.hasEnd) {
+            return this._touchParams = {
+                pageY: touch.screenY,
+                startY: touch.screenY,
+                lastPageY: touch.screenY,
+                timeStamp: e.timeStamp,
+                direction: -1
+            };
+        }
 
-    // 安卓下滚动的时候经常不触发touchstart事件
-    if (!tp || tp.hasEnd) {
-      return this._touchParams = {
-        pageY: touch.screenY,
-        startY: touch.screenY,
-        lastPageY: touch.screenY,
-        timeStamp: e.timeStamp,
-        direction: -1
-      };
-    }
+        offsetY = touch.screenY - tp.pageY;
 
-    offsetY = touch.screenY - tp.pageY;
+        tp.lastPageY = tp.pageY;
+        tp.lastDirection = tp.direction;
+        tp.direction = offsetY > 0 ? 1 : -1;
 
-    tp.lastPageY = tp.pageY;
-    tp.lastDirection = tp.direction;
-    tp.direction = offsetY > 0 ? 1 : -1;
+        if (tp.lastDirection !== tp.direction) {
+            tp.startY = tp.lastPageY;
+        }
 
-    if (tp.lastDirection !== tp.direction) {
-      tp.startY = tp.lastPageY;
-    }
+        tp.pageY = touch.screenY;
+        tp.offsetY = tp.pageY - tp.startY;
 
-    tp.pageY = touch.screenY;
-    tp.offsetY = tp.pageY - tp.startY;
+        if (!this.__scrollable && bottomNav) {
+            if (tp.offsetY <= -OFFSET_ACCURACY) {
+                bottomNav.slideOut();
+            } else if (tp.offsetY >= OFFSET_ACCURACY) {
+                bottomNav.slideIn();
+            }
+        }
+    },
+    handleTouchEnd: function handleTouchEnd() {
+        var tp = this._touchParams;
+        tp && (tp.hasEnd = true);
+    },
+    handleScroll: function handleScroll(e, scroller, topNav, bottomNav, startThreshold) {
+        var _this3 = this;
 
-    if (!this.__scrollable && bottomNav) {
-      if (tp.offsetY <= -OFFSET_ACCURACY) {
-        bottomNav.slideOut();
-      } else if (tp.offsetY >= OFFSET_ACCURACY) {
-        bottomNav.slideIn();
-      }
-    }
-  },
-  handleTouchEnd: function handleTouchEnd() {
-    var tp = this._touchParams;
-    tp && (tp.hasEnd = true);
-  },
-  handleScroll: function handleScroll(e, scroller, topNav, bottomNav, startThreshold) {
-    var _this3 = this;
+        var moveThreshold = arguments.length > 5 && arguments[5] !== undefined ? arguments[5] : 5;
 
-    var moveThreshold = arguments.length > 5 && arguments[5] !== undefined ? arguments[5] : 5;
+        var scrollY = e.contentOffset.y;
+        var nav = topNav || bottomNav;
+        var scrollFn = function scrollFn(maxScrollY) {
+            if (-scrollY > maxScrollY) {
+                return;
+            }
+            maxScrollY = Math.abs(maxScrollY);
+            if (Math.abs(scrollY) < startThreshold) {
+                if (Math.abs(scrollY) >= maxScrollY - OFFSET_ACCURACY) {
+                    var tp = _this3._touchParams;
+                    if (!tp) {
+                        return;
+                    }
+                    var offsetY = tp.offsetY;
+                    if (offsetY < -OFFSET_ACCURACY) {
+                        bottomNav && bottomNav.slideOut();
+                    } else if (offsetY > OFFSET_ACCURACY) {
+                        bottomNav && bottomNav.slideIn();
+                    }
+                } else {
+                    topNav && topNav.slideIn();
+                    bottomNav && bottomNav.slideIn();
+                }
+            } else {
+                var _tp = _this3._touchParams;
+                if (!_tp) {
+                    return;
+                }
+                var _offsetY = _tp.offsetY;
+                if (Math.abs(_offsetY) >= moveThreshold) {
+                    if (_offsetY > 0) {
+                        topNav && topNav.slideIn();
+                        bottomNav && bottomNav.slideIn();
+                    } else {
+                        topNav && topNav.slideOut();
+                        bottomNav && bottomNav.slideOut();
+                    }
+                }
+            }
+        };
 
-    var scrollY = e.contentOffset.y;
-    var nav = topNav || bottomNav;
-    var scrollFn = function scrollFn(maxScrollY) {
-      if (-scrollY > maxScrollY) {
-        return;
-      }
-      maxScrollY = Math.abs(maxScrollY);
-      if (Math.abs(scrollY) < startThreshold) {
-        if (Math.abs(scrollY) >= maxScrollY - OFFSET_ACCURACY) {
-          var tp = _this3._touchParams;
-          if (!tp) {
+        var maxScrollYCheck = function maxScrollYCheck(maxScrollY) {
+            if (!_this3.__scrollable) {
+                return;
+            }
+            if (startThreshold) {
+                scrollFn(maxScrollY);
+            } else {
+                nav.getHeight(function (navHeight) {
+                    startThreshold = navHeight;
+                    scrollFn(maxScrollY);
+                });
+            }
+        };
+
+        if (!nav) {
             return;
-          }
-          var offsetY = tp.offsetY;
-          if (offsetY < -OFFSET_ACCURACY) {
-            bottomNav && bottomNav.slideOut();
-          } else if (offsetY > OFFSET_ACCURACY) {
-            bottomNav && bottomNav.slideIn();
-          }
-        } else {
-          topNav && topNav.slideIn();
-          bottomNav && bottomNav.slideIn();
         }
-      } else {
-        var _tp = _this3._touchParams;
-        if (!_tp) {
-          return;
-        }
-        var _offsetY = _tp.offsetY;
-        if (Math.abs(_offsetY) >= moveThreshold) {
-          if (_offsetY > 0) {
-            topNav && topNav.slideIn();
-            bottomNav && bottomNav.slideIn();
-          } else {
-            topNav && topNav.slideOut();
-            bottomNav && bottomNav.slideOut();
-          }
-        }
-      }
-    };
 
-    var maxScrollYCheck = function maxScrollYCheck(maxScrollY) {
-      if (!_this3.__scrollable) {
-        return;
-      }
-      if (startThreshold) {
-        scrollFn(maxScrollY);
-      } else {
-        nav.getHeight(function (navHeight) {
-          startThreshold = navHeight;
-          scrollFn(maxScrollY);
+        _getHeight(scroller, function (scrollerHeight) {
+            var maxScrollY = e.contentSize.height - scrollerHeight;
+            _this3.__scrollable = maxScrollY >= OFFSET_ACCURACY;
+
+            if (bottomNav) {
+                bottomNav.getHeight(function (height) {
+                    _this3.__scrollable = maxScrollY >= height;
+                    maxScrollYCheck(maxScrollY);
+                });
+            } else {
+                maxScrollYCheck(maxScrollY);
+            }
         });
-      }
-    };
-
-    if (!nav) {
-      return;
     }
-
-    _getHeight(scroller, function (scrollerHeight) {
-      var maxScrollY = e.contentSize.height - scrollerHeight;
-      _this3.__scrollable = maxScrollY >= OFFSET_ACCURACY;
-
-      if (bottomNav) {
-        bottomNav.getHeight(function (height) {
-          _this3.__scrollable = maxScrollY >= height;
-          maxScrollYCheck(maxScrollY);
-        });
-      } else {
-        maxScrollYCheck(maxScrollY);
-      }
-    });
-  }
 };
 
 /***/ }),
@@ -10501,7 +10539,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _utils = __webpack_require__(0);
@@ -10510,7 +10548,9 @@ var _utils2 = _interopRequireDefault(_utils);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var EB = weex.requireModule('expressionBinding'); //
+var EB = void 0,
+    animation = void 0,
+    dom = void 0; //
 //
 //
 //
@@ -10556,408 +10596,408 @@ var EB = weex.requireModule('expressionBinding'); //
 //
 //
 //
-
-var animation = weex.requireModule('animation');
-var dom = weex.requireModule('dom');
 
 exports.default = {
-  data: function data() {
-    return {
-      env: 'weex',
-      diffX1: 0,
-      diffX2: 0,
-      barWidth: 0,
-      preventMoveEvent: true,
-      timeout: 100,
-      minDiffX: 0,
-      selectRange: [0, 0]
-    };
-  },
-  props: {
-    length: {
-      type: Number,
-      default: 500
-    },
-    height: {
-      type: Number,
-      default: 4
-    },
-    // 是否双滑块模式
-    range: {
-      type: Boolean,
-      default: false
-    },
-    // 最小值
-    min: {
-      type: Number,
-      default: 0
-    },
-    // 最大值
-    max: {
-      type: Number,
-      default: 100
-    },
-    // 最小取值范围，用于范围选择范围最小差值
-    minDiff: {
-      type: Number,
-      default: 5
-    },
-    // 设置当前取值。当 range 为 false 时，使用 number，否则用 [number, number]
-    value: {
-      type: [Number, Array],
-      default: 0
-    },
-    // 设置初始取值。当 range 为 false 时，使用 number，否则用 [number, number]
-    defaultValue: {
-      type: [Number, Array],
-      default: 0
-    },
-    // 值为 true 时，滑块为禁用状态
-    disabled: {
-      type: Boolean,
-      default: false
-    },
-    invalidColor: {
-      type: String,
-      default: '#E0E0E0'
-    },
-    validColor: {
-      type: String,
-      default: '#EE9900'
-    },
-    disabledColor: {
-      type: String,
-      default: '#AAA'
-    }
-  },
-  created: function created() {
-    if (_utils2.default.env.isWeb()) {
-      this.env = 'web';
-    }
-  },
-  mounted: function mounted() {
-    var _this = this;
-
-    this.block1 = this.$refs['slide-block-1']; // 左侧滑块
-    this.block2 = this.$refs['slide-block-2']; // 右侧滑块
-    this.valueBar = this.$refs['value-bar']; // 黄色值条
-    this.barContainer = this.$refs['bar-container']; // 滚动条容器
-
-    if (!this.range) {
-      this.diffX1 = this._getDiffX(this.value || this.defaultValue);
-    } else {
-      this.diffX1 = this._getDiffX(this.value[0] || this.defaultValue[0]);
-      this.diffX2 = this._getDiffX(this.value[1] || this.defaultValue[1]);
-      this.barWidth = this.diffX2 - this.diffX1;
-    }
-    // 是否支持expresstionBinding
-    if (_utils2.default.env.supportsEB()) {
-      this.block1 && EB.enableBinding(this.block1.ref, 'pan');
-      this.block2 && EB.enableBinding(this.block2.ref, 'pan');
-      this.valueBar && EB.enableBinding(this.valueBar.ref, 'pan');
-    }
-    if (_utils2.default.env.isAndroid()) {
-      this.timeout = 250;
-    }
-    if (this.range) {
-      this.selectRange = this.value || this.defaultValue; // 初始化范围选择返回数据
-      this.minDiffX = this.minDiff / (this.max - this.min) * this.length; // 滑块1、2之前最小间距
-    }
-    // 由于weex在mounted后渲染是异步的不能确保元素渲染完成，需要异步执行
-    setTimeout(function () {
-      dom.getComponentRect(_this.barContainer, function (option) {
-        var left = option.size.left;
-
-        _this.leftDiffX = left;
-      });
-    }, 100);
-
-    this.bindExp();
-  },
-
-  computed: {
-    containerStyle: function containerStyle() {
-      return {
-        width: this.length + 56 + 'px',
-        height: '56px'
-      };
-    },
-    rangeBarStyle: function rangeBarStyle() {
-      return {
-        width: this.length + 'px',
-        height: this.height + 'px',
-        flexDirection: 'row',
-        backgroundColor: this.invalidColor
-      };
-    },
-    valueBarStyle: function valueBarStyle() {
-      var left = 0;
-      var width = 0;
-      if (!this.range) {
-        width = this.diffX1;
-      } else {
-        left = this.diffX1;
-        width = this.diffX2 - this.diffX1;
-      }
-      return {
-        width: width + 'px',
-        height: this.height + 'px',
-        transform: 'translateX(' + left + 'px)',
-        backgroundColor: this.disabled ? this.disabledColor : this.validColor
-      };
-    },
-    blockStyle1: function blockStyle1() {
-      return {
-        transform: 'translateX(' + this.diffX1 + 'px)'
-      };
-    },
-    blockStyle2: function blockStyle2() {
-      return {
-        transform: 'translateX(' + this.diffX2 + 'px)'
-      };
-    }
-  },
-  methods: {
-    dispatchPan: function dispatchPan() {},
-
-
-    // 更新单选值或最小值
-    _weexStartHandler1: function _weexStartHandler1() {
-      var _this2 = this;
-
-      this.firstInterval = setInterval(function () {
-        if (!_this2.range) {
-          dom.getComponentRect(_this2.valueBar, function (option) {
-            var width = option.size.width;
-
-            var value = _this2._getValue(width);
-            _this2.$emit('updateValue', value);
-          });
-        } else {
-          dom.getComponentRect(_this2.block1, function (option) {
-            var left = option.size.left;
-
-            _this2.selectRange[0] = _this2._getValue(left - _this2.leftDiffX);
-            _this2.$emit('updateValue', _this2.selectRange);
-          });
-        }
-      }, this.timeout);
-    },
-
-
-    // 更新最大值
-    _weexStartHandler2: function _weexStartHandler2() {
-      var _this3 = this;
-
-      this.secondInterval = setInterval(function () {
-        dom.getComponentRect(_this3.block2, function (option) {
-          var left = option.size.left;
-
-          _this3.selectRange[1] = _this3._getValue(left - _this3.leftDiffX);
-          _this3.$emit('updateValue', _this3.selectRange);
-        });
-      }, this.timeout);
-    },
-
-
-    // 清除定时器
-    _weexEndHandler: function _weexEndHandler() {
-      this.firstInterval && clearInterval(this.firstInterval);
-      this.secondInterval && clearInterval(this.secondInterval);
-    },
-    _webStartHandler: function _webStartHandler(e) {
-      if (this.env === 'weex') {
-        return;
-      }
-      this.startX = e.touch.clientX;
-      this.startDiffX1 = this.diffX1;
-      this.startDiffX2 = this.diffX2;
-    },
-    _webMoveHandler1: function _webMoveHandler1(e) {
-      if (this.env === 'weex' || this.disabled) {
-        return;
-      }
-      var deltaX = e.touch.clientX - this.startX;
-      var diff = this.startDiffX1 + deltaX;
-      var max = this.length;
-      if (this.range) {
-        max = this.diffX2 - this.minDiffX;
-      }
-      if (diff > 0 && diff < max) {
-        this.diffX1 = diff;
-        animation.transition(this.block1, {
-          styles: {
-            transform: 'translateX(' + this.diffX1 + 'px)'
-          }
-        }, function () {});
-        if (!this.range) {
-          this.$emit('updateValue', this._getValue(this.diffX1));
-        } else {
-          this.selectRange[0] = this._getValue(this.diffX1);
-          this.$emit('updateValue', this.selectRange);
-        }
-      }
-    },
-    _webMoveHandler2: function _webMoveHandler2(e) {
-      if (this.env === 'weex' || this.disabled) {
-        return;
-      }
-      var deltaX = e.touch.clientX - this.startX;
-      var diff = this.startDiffX2 + deltaX;
-      var min = this.diffX1 + this.minDiffX;
-      var max = this.length;
-      if (diff > min && diff < max) {
-        this.diffX2 = diff;
-        animation.transition(this.block2, {
-          styles: {
-            transform: 'translateX(' + this.diffX2 + 'px)'
-          }
-        }, function () {});
-        if (!this.range) {
-          this.$emit('updateValue', this._getValue(this.diffX2));
-        } else {
-          this.selectRange[1] = this._getValue(this.diffX2);
-          this.$emit('updateValue', this.selectRange);
-        }
-      }
-    },
-    bindExp: function bindExp() {
-      var self = this;
-
-      // 如果禁用，不行进行表达式绑定
-      if (self.disabled) {
-        return;
-      }
-
-      // 初始化按钮&条的大小范围
-      var blockMax1 = 0;
-      if (self.range) {
-        blockMax1 = self.diffX2 - self.minDiffX;
-      } else {
-        blockMax1 = self.length;
-      }
-
-      var blockMax2 = self.length;
-      var blockMin2 = self.diffX1 + self.minDiffX;
-      var barMax1 = self.diffX2;
-      var barMax2 = self.length - self.diffX1;
-
-      // 滑块1表达式
-      var expBlock1 = '{"type":"CallExpression","children":[{"type":"Identifier","value":"min"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":' + blockMax1 + '},{"type":"CallExpression","children":[{"type":"Identifier","value":"max"},{"type":"Arguments","children":[{"type":"+","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + self.diffX1 + '}]},{"type":"NumericLiteral","value":0}]}]}]}]}';
-      // 滑块2表达式
-      var expBlock2 = '{"type":"CallExpression","children":[{"type":"Identifier","value":"min"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":' + blockMax2 + '},{"type":"CallExpression","children":[{"type":"Identifier","value":"max"},{"type":"Arguments","children":[{"type":"+","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + self.diffX2 + '}]},{"type":"NumericLiteral","value":' + blockMin2 + '}]}]}]}]}';
-      // valuebar表达式
-      var expBar1 = '{"type":"CallExpression","children":[{"type":"Identifier","value":"min"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":' + barMax1 + '},{"type":"CallExpression","children":[{"type":"Identifier","value":"max"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":0},{"type":"-","children":[{"type":"NumericLiteral","value":' + self.barWidth + '},{"type":"Identifier","value":"x"}]}]}]}]}]}';
-      // valuebar 范围表达式
-      var expBar2 = '{"type":"CallExpression","children":[{"type":"Identifier","value":"min"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":' + barMax2 + '},{"type":"CallExpression","children":[{"type":"Identifier","value":"max"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":0},{"type":"+","children":[{"type":"NumericLiteral","value":' + self.barWidth + '},{"type":"Identifier","value":"x"}]}]}]}]}]}';
-
-      if (!self.range) {
-        // 单选
-        var args = [{
-          element: self.block1.ref,
-          property: 'transform.translateX',
-          expression: expBlock1
-        }, {
-          element: self.valueBar.ref,
-          property: 'width',
-          expression: expBlock1
-        }];
-        EB && EB.createBinding(self.block1.ref, 'pan', '', args, function (e) {
-          if (e.state === 'end') {
-            var range = self.getRange();
-            // 限制diffX1范围
-            self.diffX1 = self._restrictValue(range.rangeX1, self.diffX1 + e.deltaX);
-            self.bindExp();
-          }
-        });
-      } else {
-        // 选范围
-        var _args = [{
-          element: self.block1.ref,
-          property: 'transform.translateX',
-          expression: expBlock1
-        }, {
-          element: self.valueBar.ref,
-          property: 'transform.translateX',
-          expression: expBlock1
-        }, {
-          element: self.valueBar.ref,
-          property: 'width',
-          expression: expBar1
-        }];
-
-        var args2 = [{
-          element: self.block2.ref,
-          property: 'transform.translateX',
-          expression: expBlock2
-        }, {
-          element: self.valueBar.ref,
-          property: 'width',
-          expression: expBar2
-        }];
-
-        EB && EB.createBinding(self.block1.ref, 'pan', '', _args, function (e) {
-          if (e.state === 'end') {
-            var range = self.getRange();
-            self.barWidth = self._restrictValue(range.rangeX1, self.barWidth - e.deltaX);
-            self.diffX1 = self._restrictValue(range.rangeX1, self.diffX1 + e.deltaX);
-            self.bindExp();
-          }
-        });
-
-        EB && EB.createBinding(self.block2.ref, 'pan', '', args2, function (e) {
-          if (e.state === 'end') {
-            var range = self.getRange();
-            self.diffX2 = self._restrictValue(range.rangeX2, self.diffX2 + e.deltaX);
-            self.barWidth = self._restrictValue([0, self.length - self.diffX1], self.barWidth + e.deltaX);
-            self.bindExp();
-          }
-        });
-      }
-    },
-
-
-    // 获取diffx1 diffx2 取值范围
-    getRange: function getRange(deltaX) {
-      if (!this.range) {
+    data: function data() {
         return {
-          rangeX1: [0, this.length]
+            env: 'weex',
+            diffX1: 0,
+            diffX2: 0,
+            barWidth: 0,
+            preventMoveEvent: true,
+            timeout: 100,
+            minDiffX: 0,
+            selectRange: [0, 0]
         };
-      } else {
-        return {
-          rangeX1: [0, this.diffX2 - this.minDiffX],
-          rangeX2: [this.diffX1 + this.minDiffX, this.length]
-        };
-      }
     },
-
-
-    // 限制取值范围
-    _restrictValue: function _restrictValue(range, value) {
-      if (range && range.length && range.length === 2) {
-        if (value < range[0]) {
-          return range[0];
-        } else if (value > range[1]) {
-          return range[1];
-        } else {
-          return value;
+    props: {
+        length: {
+            type: Number,
+            default: 500
+        },
+        height: {
+            type: Number,
+            default: 4
+        },
+        // 是否双滑块模式
+        range: {
+            type: Boolean,
+            default: false
+        },
+        // 最小值
+        min: {
+            type: Number,
+            default: 0
+        },
+        // 最大值
+        max: {
+            type: Number,
+            default: 100
+        },
+        // 最小取值范围，用于范围选择范围最小差值
+        minDiff: {
+            type: Number,
+            default: 5
+        },
+        // 设置当前取值。当 range 为 false 时，使用 number，否则用 [number, number]
+        value: {
+            type: [Number, Array],
+            default: 0
+        },
+        // 设置初始取值。当 range 为 false 时，使用 number，否则用 [number, number]
+        defaultValue: {
+            type: [Number, Array],
+            default: 0
+        },
+        // 值为 true 时，滑块为禁用状态
+        disabled: {
+            type: Boolean,
+            default: false
+        },
+        invalidColor: {
+            type: String,
+            default: '#E0E0E0'
+        },
+        validColor: {
+            type: String,
+            default: '#EE9900'
+        },
+        disabledColor: {
+            type: String,
+            default: '#AAA'
         }
-      }
-      return;
+    },
+    created: function created() {
+        if (_utils2.default.env.isWeb()) {
+            this.env = 'web';
+        }
+        expressionBinding = weex.requireModule('expressionBinding');
+        animation = weex.requireModule('animation');
+        dom = weex.requireModule('dom');
+    },
+    mounted: function mounted() {
+        var _this = this;
+
+        this.block1 = this.$refs['slide-block-1']; // 左侧滑块
+        this.block2 = this.$refs['slide-block-2']; // 右侧滑块
+        this.valueBar = this.$refs['value-bar']; // 黄色值条
+        this.barContainer = this.$refs['bar-container']; // 滚动条容器
+
+        if (!this.range) {
+            this.diffX1 = this._getDiffX(this.value || this.defaultValue);
+        } else {
+            this.diffX1 = this._getDiffX(this.value[0] || this.defaultValue[0]);
+            this.diffX2 = this._getDiffX(this.value[1] || this.defaultValue[1]);
+            this.barWidth = this.diffX2 - this.diffX1;
+        }
+        // 是否支持expresstionBinding
+        if (_utils2.default.env.supportsEB()) {
+            this.block1 && EB.enableBinding(this.block1.ref, 'pan');
+            this.block2 && EB.enableBinding(this.block2.ref, 'pan');
+            this.valueBar && EB.enableBinding(this.valueBar.ref, 'pan');
+        }
+        if (_utils2.default.env.isAndroid()) {
+            this.timeout = 250;
+        }
+        if (this.range) {
+            this.selectRange = this.value || this.defaultValue; // 初始化范围选择返回数据
+            this.minDiffX = this.minDiff / (this.max - this.min) * this.length; // 滑块1、2之前最小间距
+        }
+        // 由于weex在mounted后渲染是异步的不能确保元素渲染完成，需要异步执行
+        setTimeout(function () {
+            dom.getComponentRect(_this.barContainer, function (option) {
+                var left = option.size.left;
+
+                _this.leftDiffX = left;
+            });
+        }, 100);
+
+        this.bindExp();
     },
 
-
-    // 根据x方向偏移量计算value
-    _getValue: function _getValue(diffX) {
-      return Math.round(diffX / this.length * (this.max - this.min) + this.min);
+    computed: {
+        containerStyle: function containerStyle() {
+            return {
+                width: this.length + 56 + 'px',
+                height: '56px'
+            };
+        },
+        rangeBarStyle: function rangeBarStyle() {
+            return {
+                width: this.length + 'px',
+                height: this.height + 'px',
+                flexDirection: 'row',
+                backgroundColor: this.invalidColor
+            };
+        },
+        valueBarStyle: function valueBarStyle() {
+            var left = 0;
+            var width = 0;
+            if (!this.range) {
+                width = this.diffX1;
+            } else {
+                left = this.diffX1;
+                width = this.diffX2 - this.diffX1;
+            }
+            return {
+                width: width + 'px',
+                height: this.height + 'px',
+                transform: 'translateX(' + left + 'px)',
+                backgroundColor: this.disabled ? this.disabledColor : this.validColor
+            };
+        },
+        blockStyle1: function blockStyle1() {
+            return {
+                transform: 'translateX(' + this.diffX1 + 'px)'
+            };
+        },
+        blockStyle2: function blockStyle2() {
+            return {
+                transform: 'translateX(' + this.diffX2 + 'px)'
+            };
+        }
     },
+    methods: {
+        dispatchPan: function dispatchPan() {},
 
 
-    // 根据value和length计算x方向偏移值
-    _getDiffX: function _getDiffX(value) {
-      return (value - this.min) / (this.max - this.min) * this.length;
+        // 更新单选值或最小值
+        _weexStartHandler1: function _weexStartHandler1() {
+            var _this2 = this;
+
+            this.firstInterval = setInterval(function () {
+                if (!_this2.range) {
+                    dom.getComponentRect(_this2.valueBar, function (option) {
+                        var width = option.size.width;
+
+                        var value = _this2._getValue(width);
+                        _this2.$emit('updateValue', value);
+                    });
+                } else {
+                    dom.getComponentRect(_this2.block1, function (option) {
+                        var left = option.size.left;
+
+                        _this2.selectRange[0] = _this2._getValue(left - _this2.leftDiffX);
+                        _this2.$emit('updateValue', _this2.selectRange);
+                    });
+                }
+            }, this.timeout);
+        },
+
+
+        // 更新最大值
+        _weexStartHandler2: function _weexStartHandler2() {
+            var _this3 = this;
+
+            this.secondInterval = setInterval(function () {
+                dom.getComponentRect(_this3.block2, function (option) {
+                    var left = option.size.left;
+
+                    _this3.selectRange[1] = _this3._getValue(left - _this3.leftDiffX);
+                    _this3.$emit('updateValue', _this3.selectRange);
+                });
+            }, this.timeout);
+        },
+
+
+        // 清除定时器
+        _weexEndHandler: function _weexEndHandler() {
+            this.firstInterval && clearInterval(this.firstInterval);
+            this.secondInterval && clearInterval(this.secondInterval);
+        },
+        _webStartHandler: function _webStartHandler(e) {
+            if (this.env === 'weex') {
+                return;
+            }
+            this.startX = e.touch.clientX;
+            this.startDiffX1 = this.diffX1;
+            this.startDiffX2 = this.diffX2;
+        },
+        _webMoveHandler1: function _webMoveHandler1(e) {
+            if (this.env === 'weex' || this.disabled) {
+                return;
+            }
+            var deltaX = e.touch.clientX - this.startX;
+            var diff = this.startDiffX1 + deltaX;
+            var max = this.length;
+            if (this.range) {
+                max = this.diffX2 - this.minDiffX;
+            }
+            if (diff > 0 && diff < max) {
+                this.diffX1 = diff;
+                animation.transition(this.block1, {
+                    styles: {
+                        transform: 'translateX(' + this.diffX1 + 'px)'
+                    }
+                }, function () {});
+                if (!this.range) {
+                    this.$emit('updateValue', this._getValue(this.diffX1));
+                } else {
+                    this.selectRange[0] = this._getValue(this.diffX1);
+                    this.$emit('updateValue', this.selectRange);
+                }
+            }
+        },
+        _webMoveHandler2: function _webMoveHandler2(e) {
+            if (this.env === 'weex' || this.disabled) {
+                return;
+            }
+            var deltaX = e.touch.clientX - this.startX;
+            var diff = this.startDiffX2 + deltaX;
+            var min = this.diffX1 + this.minDiffX;
+            var max = this.length;
+            if (diff > min && diff < max) {
+                this.diffX2 = diff;
+                animation.transition(this.block2, {
+                    styles: {
+                        transform: 'translateX(' + this.diffX2 + 'px)'
+                    }
+                }, function () {});
+                if (!this.range) {
+                    this.$emit('updateValue', this._getValue(this.diffX2));
+                } else {
+                    this.selectRange[1] = this._getValue(this.diffX2);
+                    this.$emit('updateValue', this.selectRange);
+                }
+            }
+        },
+        bindExp: function bindExp() {
+            var self = this;
+
+            // 如果禁用，不行进行表达式绑定
+            if (self.disabled) {
+                return;
+            }
+
+            // 初始化按钮&条的大小范围
+            var blockMax1 = 0;
+            if (self.range) {
+                blockMax1 = self.diffX2 - self.minDiffX;
+            } else {
+                blockMax1 = self.length;
+            }
+
+            var blockMax2 = self.length;
+            var blockMin2 = self.diffX1 + self.minDiffX;
+            var barMax1 = self.diffX2;
+            var barMax2 = self.length - self.diffX1;
+
+            // 滑块1表达式
+            var expBlock1 = '{"type":"CallExpression","children":[{"type":"Identifier","value":"min"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":' + blockMax1 + '},{"type":"CallExpression","children":[{"type":"Identifier","value":"max"},{"type":"Arguments","children":[{"type":"+","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + self.diffX1 + '}]},{"type":"NumericLiteral","value":0}]}]}]}]}';
+            // 滑块2表达式
+            var expBlock2 = '{"type":"CallExpression","children":[{"type":"Identifier","value":"min"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":' + blockMax2 + '},{"type":"CallExpression","children":[{"type":"Identifier","value":"max"},{"type":"Arguments","children":[{"type":"+","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + self.diffX2 + '}]},{"type":"NumericLiteral","value":' + blockMin2 + '}]}]}]}]}';
+            // valuebar表达式
+            var expBar1 = '{"type":"CallExpression","children":[{"type":"Identifier","value":"min"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":' + barMax1 + '},{"type":"CallExpression","children":[{"type":"Identifier","value":"max"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":0},{"type":"-","children":[{"type":"NumericLiteral","value":' + self.barWidth + '},{"type":"Identifier","value":"x"}]}]}]}]}]}';
+            // valuebar 范围表达式
+            var expBar2 = '{"type":"CallExpression","children":[{"type":"Identifier","value":"min"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":' + barMax2 + '},{"type":"CallExpression","children":[{"type":"Identifier","value":"max"},{"type":"Arguments","children":[{"type":"NumericLiteral","value":0},{"type":"+","children":[{"type":"NumericLiteral","value":' + self.barWidth + '},{"type":"Identifier","value":"x"}]}]}]}]}]}';
+
+            if (!self.range) {
+                // 单选
+                var args = [{
+                    element: self.block1.ref,
+                    property: 'transform.translateX',
+                    expression: expBlock1
+                }, {
+                    element: self.valueBar.ref,
+                    property: 'width',
+                    expression: expBlock1
+                }];
+                EB && EB.createBinding(self.block1.ref, 'pan', '', args, function (e) {
+                    if (e.state === 'end') {
+                        var range = self.getRange();
+                        // 限制diffX1范围
+                        self.diffX1 = self._restrictValue(range.rangeX1, self.diffX1 + e.deltaX);
+                        self.bindExp();
+                    }
+                });
+            } else {
+                // 选范围
+                var _args = [{
+                    element: self.block1.ref,
+                    property: 'transform.translateX',
+                    expression: expBlock1
+                }, {
+                    element: self.valueBar.ref,
+                    property: 'transform.translateX',
+                    expression: expBlock1
+                }, {
+                    element: self.valueBar.ref,
+                    property: 'width',
+                    expression: expBar1
+                }];
+
+                var args2 = [{
+                    element: self.block2.ref,
+                    property: 'transform.translateX',
+                    expression: expBlock2
+                }, {
+                    element: self.valueBar.ref,
+                    property: 'width',
+                    expression: expBar2
+                }];
+
+                EB && EB.createBinding(self.block1.ref, 'pan', '', _args, function (e) {
+                    if (e.state === 'end') {
+                        var range = self.getRange();
+                        self.barWidth = self._restrictValue(range.rangeX1, self.barWidth - e.deltaX);
+                        self.diffX1 = self._restrictValue(range.rangeX1, self.diffX1 + e.deltaX);
+                        self.bindExp();
+                    }
+                });
+
+                EB && EB.createBinding(self.block2.ref, 'pan', '', args2, function (e) {
+                    if (e.state === 'end') {
+                        var range = self.getRange();
+                        self.diffX2 = self._restrictValue(range.rangeX2, self.diffX2 + e.deltaX);
+                        self.barWidth = self._restrictValue([0, self.length - self.diffX1], self.barWidth + e.deltaX);
+                        self.bindExp();
+                    }
+                });
+            }
+        },
+
+
+        // 获取diffx1 diffx2 取值范围
+        getRange: function getRange(deltaX) {
+            if (!this.range) {
+                return {
+                    rangeX1: [0, this.length]
+                };
+            } else {
+                return {
+                    rangeX1: [0, this.diffX2 - this.minDiffX],
+                    rangeX2: [this.diffX1 + this.minDiffX, this.length]
+                };
+            }
+        },
+
+
+        // 限制取值范围
+        _restrictValue: function _restrictValue(range, value) {
+            if (range && range.length && range.length === 2) {
+                if (value < range[0]) {
+                    return range[0];
+                } else if (value > range[1]) {
+                    return range[1];
+                } else {
+                    return value;
+                }
+            }
+            return;
+        },
+
+
+        // 根据x方向偏移量计算value
+        _getValue: function _getValue(diffX) {
+            return Math.round(diffX / this.length * (this.max - this.min) + this.min);
+        },
+
+
+        // 根据value和length计算x方向偏移值
+        _getDiffX: function _getDiffX(value) {
+            return (value - this.min) / (this.max - this.min) * this.length;
+        }
     }
-  }
 };
 
 /***/ }),
@@ -11339,7 +11379,9 @@ exports.default = {
     };
   },
   watch: {
-    defaultValue: defaultValue
+    defaultValue: function defaultValue(newNum) {
+      this.value = newNum;
+    }
   },
   created: function created() {
     this.value = parseInt(this.defaultValue, 10);
@@ -11415,7 +11457,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _utils = __webpack_require__(0);
@@ -11544,149 +11586,154 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 //
 //
 //
+//
+//
+//
 
-var dom = weex.requireModule('dom');
-var animation = weex.requireModule('animation');
+var dom = void 0,
+    animation = void 0;
 exports.default = {
-  props: {
-    tabTitles: {
-      type: Array,
-      default: function _default() {
-        return [];
-      }
-    },
-    tabStyles: {
-      type: Object,
-      default: function _default() {
-        return {
-          bgColor: '#FFFFFF',
-          titleColor: '#666666',
-          activeTitleColor: '#3D3D3D',
-          activeBgColor: '#FFFFFF',
-          isActiveTitleBold: true,
-          iconWidth: 70,
-          iconHeight: 70,
-          width: 160,
-          height: 120,
-          fontSize: 24,
-          activeBottomColor: '#FFC900',
-          activeBottomWidth: 120,
-          activeBottomHeight: 6,
-          textPaddingLeft: 10,
-          textPaddingRight: 10
-        };
-      }
-    },
-    titleType: {
-      type: String,
-      default: 'icon'
-    },
-    titleUseSlot: {
-      type: Boolean,
-      default: false
-    },
-    isTabView: {
-      type: Boolean,
-      default: true
-    },
-    duration: {
-      type: [Number, String],
-      default: 300
-    },
-    timingFunction: {
-      type: String,
-      default: 'cubic-bezier(0.25, 0.46, 0.45, 0.94)'
-    },
-    wrapBgColor: {
-      type: String,
-      default: '#f2f3f4'
-    }
-  },
-  data: function data() {
-    return {
-      currentPage: 0,
-      translateX: 0
-    };
-  },
-  created: function created() {
-    var titleType = this.titleType,
-        tabStyles = this.tabStyles;
-
-    if (titleType === 'iconFont' && tabStyles.iconFontUrl) {
-      dom.addRule('fontFace', {
-        'fontFamily': "wxcIconFont",
-        'src': 'url(\'' + tabStyles.iconFontUrl + '\')'
-      });
-    }
-    this.isIPhoneX = _utils2.default.env.isIPhoneX();
-  },
-
-  methods: {
-    next: function next() {
-      var page = this.currentPage;
-      if (page < this.tabTitles.length - 1) {
-        page++;
-      }
-      this.setPage(page);
-    },
-    prev: function prev() {
-      var page = this.currentPage;
-      if (page > 0) {
-        page--;
-      }
-      this.setPage(page);
-    },
-    setPage: function setPage(page) {
-      var url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
-      var animated = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : true;
-
-      if (!this.isTabView) {
-        this.jumpOut(url);
-        return;
-      }
-      var previousPage = this.currentPage;
-      var currentTabEl = this.$refs['wxc-tab-title-' + page][0];
-      var width = this.tabStyles.width;
-
-      var appearNum = parseInt(750 / width);
-      var tabsNum = this.tabTitles.length;
-      var offset = page > appearNum ? -(750 - width) / 2 : -width * 2;
-
-      if (appearNum < tabsNum) {
-        (previousPage > appearNum || page > 1) && dom.scrollToElement(currentTabEl, {
-          offset: offset, animated: animated
-        });
-
-        page <= 1 && previousPage > page && dom.scrollToElement(currentTabEl, {
-          offset: -width * page,
-          animated: animated
-        });
-      }
-
-      this.currentPage = page;
-      this._animateTransformX(page, animated);
-      this.$emit('wxcTabBarCurrentTabSelected', { page: page });
-    },
-    jumpOut: function jumpOut(url) {
-      url && _utils2.default.goToH5Page(url);
-    },
-    _animateTransformX: function _animateTransformX(page, animated) {
-      var duration = this.duration,
-          timingFunction = this.timingFunction;
-
-      var computedDur = animated ? duration : 0.00001;
-      var containerEl = this.$refs['tab-container'];
-      var dist = page * 750;
-      animation.transition(containerEl, {
-        styles: {
-          transform: 'translateX(' + -dist + 'px)'
+    props: {
+        tabTitles: {
+            type: Array,
+            default: function _default() {
+                return [];
+            }
         },
-        duration: computedDur,
-        timingFunction: timingFunction,
-        delay: 0
-      }, function () {});
+        tabStyles: {
+            type: Object,
+            default: function _default() {
+                return {
+                    bgColor: '#FFFFFF',
+                    titleColor: '#666666',
+                    activeTitleColor: '#3D3D3D',
+                    activeBgColor: '#FFFFFF',
+                    isActiveTitleBold: true,
+                    iconWidth: 70,
+                    iconHeight: 70,
+                    width: 160,
+                    height: 120,
+                    fontSize: 24,
+                    activeBottomColor: '#FFC900',
+                    activeBottomWidth: 120,
+                    activeBottomHeight: 6,
+                    textPaddingLeft: 10,
+                    textPaddingRight: 10
+                };
+            }
+        },
+        titleType: {
+            type: String,
+            default: 'icon'
+        },
+        titleUseSlot: {
+            type: Boolean,
+            default: false
+        },
+        isTabView: {
+            type: Boolean,
+            default: true
+        },
+        duration: {
+            type: [Number, String],
+            default: 300
+        },
+        timingFunction: {
+            type: String,
+            default: 'cubic-bezier(0.25, 0.46, 0.45, 0.94)'
+        },
+        wrapBgColor: {
+            type: String,
+            default: '#f2f3f4'
+        }
+    },
+    data: function data() {
+        return {
+            currentPage: 0,
+            translateX: 0
+        };
+    },
+    created: function created() {
+        dom = weex.requireModule('dom');
+        animation = weex.requireModule('animation');
+        var titleType = this.titleType,
+            tabStyles = this.tabStyles;
+
+        if (titleType === 'iconFont' && tabStyles.iconFontUrl) {
+            dom.addRule('fontFace', {
+                'fontFamily': "wxcIconFont",
+                'src': 'url(\'' + tabStyles.iconFontUrl + '\')'
+            });
+        }
+        this.isIPhoneX = _utils2.default.env.isIPhoneX();
+    },
+
+    methods: {
+        next: function next() {
+            var page = this.currentPage;
+            if (page < this.tabTitles.length - 1) {
+                page++;
+            }
+            this.setPage(page);
+        },
+        prev: function prev() {
+            var page = this.currentPage;
+            if (page > 0) {
+                page--;
+            }
+            this.setPage(page);
+        },
+        setPage: function setPage(page) {
+            var url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
+            var animated = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : true;
+
+            if (!this.isTabView) {
+                this.jumpOut(url);
+                return;
+            }
+            var previousPage = this.currentPage;
+            var currentTabEl = this.$refs['wxc-tab-title-' + page][0];
+            var width = this.tabStyles.width;
+
+            var appearNum = parseInt(750 / width);
+            var tabsNum = this.tabTitles.length;
+            var offset = page > appearNum ? -(750 - width) / 2 : -width * 2;
+
+            if (appearNum < tabsNum) {
+                (previousPage > appearNum || page > 1) && dom.scrollToElement(currentTabEl, {
+                    offset: offset, animated: animated
+                });
+
+                page <= 1 && previousPage > page && dom.scrollToElement(currentTabEl, {
+                    offset: -width * page,
+                    animated: animated
+                });
+            }
+
+            this.currentPage = page;
+            this._animateTransformX(page, animated);
+            this.$emit('wxcTabBarCurrentTabSelected', { page: page });
+        },
+        jumpOut: function jumpOut(url) {
+            url && _utils2.default.goToH5Page(url);
+        },
+        _animateTransformX: function _animateTransformX(page, animated) {
+            var duration = this.duration,
+                timingFunction = this.timingFunction;
+
+            var computedDur = animated ? duration : 0.00001;
+            var containerEl = this.$refs['tab-container'];
+            var dist = page * 750;
+            animation.transition(containerEl, {
+                styles: {
+                    transform: 'translateX(' + -dist + 'px)'
+                },
+                duration: computedDur,
+                timingFunction: timingFunction,
+                delay: 0
+            }, function () {});
+        }
     }
-  }
 };
 
 /***/ }),
@@ -11697,7 +11744,7 @@ exports.default = {
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _utils = __webpack_require__(0);
@@ -11805,290 +11852,297 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 //
 //
 //
+//
+//
+//
 
-var dom = weex.requireModule('dom');
-var animation = weex.requireModule('animation');
-var swipeBack = weex.requireModule('swipeBack');
-var expressionBinding = weex.requireModule('expressionBinding');
+var dom = void 0,
+    animation = void 0,
+    swipeBack = void 0,
+    expressionBinding = void 0;
 
 var supportsEB = _utils2.default.env.supportsEB();
 var supportsEBForIos = _utils2.default.env.supportsEBForIos();
 var isIos = _utils2.default.env.isIOS();
 
 exports.default = {
-  props: {
-    tabTitles: {
-      type: Array,
-      default: function _default() {
-        return [];
-      }
-    },
-    panDist: {
-      type: Number,
-      default: 200
-    },
-    spmC: {
-      type: [String, Number],
-      default: ''
-    },
-    titleUseSlot: {
-      type: Boolean,
-      default: false
-    },
-    tabStyles: {
-      type: Object,
-      default: function _default() {
-        return {
-          bgColor: '#FFFFFF',
-          titleColor: '#666666',
-          activeTitleColor: '#3D3D3D',
-          activeBgColor: '#FFFFFF',
-          isActiveTitleBold: true,
-          iconWidth: 70,
-          iconHeight: 70,
-          width: 160,
-          height: 120,
-          fontSize: 24,
-          hasActiveBottom: true,
-          activeBottomColor: '#FFC900',
-          activeBottomWidth: 120,
-          activeBottomHeight: 6,
-          textPaddingLeft: 10,
-          textPaddingRight: 10,
-          leftOffset: 0
-        };
-      }
-    },
-    titleType: {
-      type: String,
-      default: 'icon'
-    },
-    tabPageHeight: {
-      type: [String, Number],
-      default: 1334
-    },
-    isTabView: {
-      type: Boolean,
-      default: true
-    },
-    needSlider: {
-      type: Boolean,
-      default: true
-    },
-    duration: {
-      type: [Number, String],
-      default: 300
-    },
-    timingFunction: {
-      type: String,
-      default: 'cubic-bezier(0.25, 0.46, 0.45, 0.94)'
-    },
-    wrapBgColor: {
-      type: String,
-      default: '#f2f3f4'
-    }
-  },
-  data: function data() {
-    return {
-      currentPage: 0,
-      isMoving: false,
-      startTime: 0,
-      deltaX: 0,
-      translateX: 0,
-      startPosX: 0,
-      startPosY: 0,
-      judge: 'INITIAL'
-    };
-  },
-  created: function created() {
-    var titleType = this.titleType,
-        tabStyles = this.tabStyles;
-
-    if (titleType === 'iconFont' && tabStyles.iconFontUrl) {
-      dom.addRule('fontFace', {
-        'fontFamily': "wxcIconFont",
-        'src': 'url(' + tabStyles.iconFontUrl + ')'
-      });
-    }
-  },
-  mounted: function mounted() {
-    var _this = this;
-
-    if (swipeBack && swipeBack.forbidSwipeBack) {
-      swipeBack.forbidSwipeBack(true);
-    }
-    if (supportsEBForIos && this.needSlider && this.isTabView) {
-      setTimeout(function () {
-        var tabPageEl = _this.$refs['tab-page-wrap'];
-        if (tabPageEl && tabPageEl.ref) {
-          expressionBinding.enableBinding(tabPageEl.ref, 'pan');
-          _this.bindExp(tabPageEl);
-        }
-      }, 20);
-    }
-  },
-
-  methods: {
-    next: function next() {
-      var page = this.currentPage;
-      if (page < this.tabTitles.length - 1) {
-        page++;
-      }
-      this.setPage(page);
-    },
-    prev: function prev() {
-      var page = this.currentPage;
-      if (page > 0) {
-        page--;
-      }
-      this.setPage(page);
-    },
-    startHandler: function startHandler(e) {
-      var _this2 = this;
-
-      if (supportsEBForIos && e.state === 'start' && this.isTabView && this.needSlider) {
-        // list下拉和到最下面问题修复
-        setTimeout(function () {
-          _this2.bindExp(_this2.$refs['tab-page-wrap']);
-        }, 0);
-      }
-    },
-    bindExp: function bindExp(element) {
-      var _this3 = this;
-
-      if (!this.isMoving && element && element.ref) {
-        var tabElement = this.$refs['tab-container'];
-        var currentPage = this.currentPage,
-            panDist = this.panDist;
-
-        var dist = currentPage * 750;
-        // x-dist
-        var args = [{
-          element: tabElement.ref,
-          property: 'transform.translateX',
-          expression: '{"type":"-","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + dist + '}]}'
-        }];
-        expressionBinding.createBinding(element.ref, 'pan', '', args, function (e) {
-          var deltaX = e.deltaX,
-              state = e.state;
-
-          if (state === 'end') {
-            if (deltaX < -panDist) {
-              _this3.next();
-            } else if (deltaX > panDist) {
-              _this3.prev();
-            } else {
-              _this3.setPage(currentPage);
+    props: {
+        tabTitles: {
+            type: Array,
+            default: function _default() {
+                return [];
             }
-          }
-        });
-      }
-    },
-    setPage: function setPage(page) {
-      var _this4 = this;
-
-      var url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
-      var animated = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : true;
-
-      if (!this.isTabView) {
-        this.jumpOut(url);
-        return;
-      }
-      if (this.isMoving === true) {
-        return;
-      }
-      this.isMoving = true;
-      var previousPage = this.currentPage;
-      var currentTabEl = this.$refs['wxc-tab-title-' + page][0];
-      var width = this.tabStyles.width;
-
-      var appearNum = parseInt(750 / width);
-      var tabsNum = this.tabTitles.length;
-      var offset = page > appearNum ? -(750 - width) / 2 : -width * 2;
-
-      if (appearNum < tabsNum) {
-        (previousPage > appearNum || page > 1) && dom.scrollToElement(currentTabEl, {
-          offset: offset, animated: animated
-        });
-
-        page <= 1 && previousPage > page && dom.scrollToElement(currentTabEl, {
-          offset: -width * page,
-          animated: animated
-        });
-      }
-
-      this.isMoving = false;
-      this.currentPage = page;
-
-      if (isIos) {
-        // 高版本ios 手淘上面会有不固定情况，hack一下
-        setTimeout(function () {
-          _this4._animateTransformX(page, animated);
-          _this4.$emit('wxcTabPageCurrentTabSelected', { page: page });
-        }, 10);
-      } else {
-        this._animateTransformX(page, animated);
-        this.$emit('wxcTabPageCurrentTabSelected', { page: page });
-      }
-    },
-    jumpOut: function jumpOut(url) {
-      url && _utils2.default.goToH5Page(url);
-    },
-    _animateTransformX: function _animateTransformX(page, animated) {
-      var duration = this.duration,
-          timingFunction = this.timingFunction;
-
-      var computedDur = animated ? duration : 0.00001;
-      var containerEl = this.$refs['tab-container'];
-      var dist = page * 750;
-      animation.transition(containerEl, {
-        styles: {
-          transform: 'translateX(' + -dist + 'px)'
         },
-        duration: computedDur,
-        timingFunction: timingFunction,
-        delay: 0
-      }, function () {});
-    },
-    _onTouchStart: function _onTouchStart(e) {
-      if (supportsEB || !this.isTabView || !this.needSlider) {
-        return;
-      }
-      this.startPosX = this._getTouchXPos(e);
-      this.startPosY = this._getTouchYPos(e);
-      this.deltaX = 0;
-      this.startTime = new Date().getTime();
-    },
-    _onTouchMove: function _onTouchMove(e) {
-      if (supportsEB || !this.isTabView || !this.needSlider) {
-        return;
-      }
-      this.deltaX = this._getTouchXPos(e) - this.startPosX;
-      this.deltaY = Math.abs(this._getTouchYPos(e) - this.startPosY + 1);
-      if (this.judge === 'INITIAL' && Math.abs(this.deltaX) / this.deltaY > 1.73) {
-        this.judge = 'SLIDE_ING';
-      }
-    },
-    _onTouchEnd: function _onTouchEnd() {
-      if (supportsEB || !this.isTabView || !this.needSlider) {
-        return;
-      }
-      if (this.judge === 'SLIDE_ING') {
-        if (this.deltaX < -50) {
-          this.next();
-        } else if (this.deltaX > 50) {
-          this.prev();
+        panDist: {
+            type: Number,
+            default: 200
+        },
+        spmC: {
+            type: [String, Number],
+            default: ''
+        },
+        titleUseSlot: {
+            type: Boolean,
+            default: false
+        },
+        tabStyles: {
+            type: Object,
+            default: function _default() {
+                return {
+                    bgColor: '#FFFFFF',
+                    titleColor: '#666666',
+                    activeTitleColor: '#3D3D3D',
+                    activeBgColor: '#FFFFFF',
+                    isActiveTitleBold: true,
+                    iconWidth: 70,
+                    iconHeight: 70,
+                    width: 160,
+                    height: 120,
+                    fontSize: 24,
+                    hasActiveBottom: true,
+                    activeBottomColor: '#FFC900',
+                    activeBottomWidth: 120,
+                    activeBottomHeight: 6,
+                    textPaddingLeft: 10,
+                    textPaddingRight: 10,
+                    leftOffset: 0
+                };
+            }
+        },
+        titleType: {
+            type: String,
+            default: 'icon'
+        },
+        tabPageHeight: {
+            type: [String, Number],
+            default: 1334
+        },
+        isTabView: {
+            type: Boolean,
+            default: true
+        },
+        needSlider: {
+            type: Boolean,
+            default: true
+        },
+        duration: {
+            type: [Number, String],
+            default: 300
+        },
+        timingFunction: {
+            type: String,
+            default: 'cubic-bezier(0.25, 0.46, 0.45, 0.94)'
+        },
+        wrapBgColor: {
+            type: String,
+            default: '#f2f3f4'
         }
-      }
-      this.judge = 'INITIAL';
     },
-    _getTouchXPos: function _getTouchXPos(e) {
-      return e.changedTouches[0]['pageX'];
+    data: function data() {
+        return {
+            currentPage: 0,
+            isMoving: false,
+            startTime: 0,
+            deltaX: 0,
+            translateX: 0,
+            startPosX: 0,
+            startPosY: 0,
+            judge: 'INITIAL'
+        };
     },
-    _getTouchYPos: function _getTouchYPos(e) {
-      return e.changedTouches[0]['pageY'];
+    created: function created() {
+        dom = weex.requireModule('dom');
+        animation = weex.requireModule('animation');
+        swipeBack = weex.requireModule('swipeBack');
+        expressionBinding = weex.requireModule('expressionBinding');
+        var titleType = this.titleType,
+            tabStyles = this.tabStyles;
+
+        if (titleType === 'iconFont' && tabStyles.iconFontUrl) {
+            dom.addRule('fontFace', {
+                'fontFamily': "wxcIconFont",
+                'src': 'url(' + tabStyles.iconFontUrl + ')'
+            });
+        }
+    },
+    mounted: function mounted() {
+        var _this = this;
+
+        if (swipeBack && swipeBack.forbidSwipeBack) {
+            swipeBack.forbidSwipeBack(true);
+        }
+        if (supportsEBForIos && this.needSlider && this.isTabView) {
+            setTimeout(function () {
+                var tabPageEl = _this.$refs['tab-page-wrap'];
+                if (tabPageEl && tabPageEl.ref) {
+                    expressionBinding.enableBinding(tabPageEl.ref, 'pan');
+                    _this.bindExp(tabPageEl);
+                }
+            }, 20);
+        }
+    },
+
+    methods: {
+        next: function next() {
+            var page = this.currentPage;
+            if (page < this.tabTitles.length - 1) {
+                page++;
+            }
+            this.setPage(page);
+        },
+        prev: function prev() {
+            var page = this.currentPage;
+            if (page > 0) {
+                page--;
+            }
+            this.setPage(page);
+        },
+        startHandler: function startHandler(e) {
+            var _this2 = this;
+
+            if (supportsEBForIos && e.state === 'start' && this.isTabView && this.needSlider) {
+                // list下拉和到最下面问题修复
+                setTimeout(function () {
+                    _this2.bindExp(_this2.$refs['tab-page-wrap']);
+                }, 0);
+            }
+        },
+        bindExp: function bindExp(element) {
+            var _this3 = this;
+
+            if (!this.isMoving && element && element.ref) {
+                var tabElement = this.$refs['tab-container'];
+                var currentPage = this.currentPage,
+                    panDist = this.panDist;
+
+                var dist = currentPage * 750;
+                // x-dist
+                var args = [{
+                    element: tabElement.ref,
+                    property: 'transform.translateX',
+                    expression: '{"type":"-","children":[{"type":"Identifier","value":"x"},{"type":"NumericLiteral","value":' + dist + '}]}'
+                }];
+                expressionBinding.createBinding(element.ref, 'pan', '', args, function (e) {
+                    var deltaX = e.deltaX,
+                        state = e.state;
+
+                    if (state === 'end') {
+                        if (deltaX < -panDist) {
+                            _this3.next();
+                        } else if (deltaX > panDist) {
+                            _this3.prev();
+                        } else {
+                            _this3.setPage(currentPage);
+                        }
+                    }
+                });
+            }
+        },
+        setPage: function setPage(page) {
+            var _this4 = this;
+
+            var url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
+            var animated = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : true;
+
+            if (!this.isTabView) {
+                this.jumpOut(url);
+                return;
+            }
+            if (this.isMoving === true) {
+                return;
+            }
+            this.isMoving = true;
+            var previousPage = this.currentPage;
+            var currentTabEl = this.$refs['wxc-tab-title-' + page][0];
+            var width = this.tabStyles.width;
+
+            var appearNum = parseInt(750 / width);
+            var tabsNum = this.tabTitles.length;
+            var offset = page > appearNum ? -(750 - width) / 2 : -width * 2;
+
+            if (appearNum < tabsNum) {
+                (previousPage > appearNum || page > 1) && dom.scrollToElement(currentTabEl, {
+                    offset: offset, animated: animated
+                });
+
+                page <= 1 && previousPage > page && dom.scrollToElement(currentTabEl, {
+                    offset: -width * page,
+                    animated: animated
+                });
+            }
+
+            this.isMoving = false;
+            this.currentPage = page;
+
+            if (isIos) {
+                // 高版本ios 手淘上面会有不固定情况，hack一下
+                setTimeout(function () {
+                    _this4._animateTransformX(page, animated);
+                    _this4.$emit('wxcTabPageCurrentTabSelected', { page: page });
+                }, 10);
+            } else {
+                this._animateTransformX(page, animated);
+                this.$emit('wxcTabPageCurrentTabSelected', { page: page });
+            }
+        },
+        jumpOut: function jumpOut(url) {
+            url && _utils2.default.goToH5Page(url);
+        },
+        _animateTransformX: function _animateTransformX(page, animated) {
+            var duration = this.duration,
+                timingFunction = this.timingFunction;
+
+            var computedDur = animated ? duration : 0.00001;
+            var containerEl = this.$refs['tab-container'];
+            var dist = page * 750;
+            animation.transition(containerEl, {
+                styles: {
+                    transform: 'translateX(' + -dist + 'px)'
+                },
+                duration: computedDur,
+                timingFunction: timingFunction,
+                delay: 0
+            }, function () {});
+        },
+        _onTouchStart: function _onTouchStart(e) {
+            if (supportsEB || !this.isTabView || !this.needSlider) {
+                return;
+            }
+            this.startPosX = this._getTouchXPos(e);
+            this.startPosY = this._getTouchYPos(e);
+            this.deltaX = 0;
+            this.startTime = new Date().getTime();
+        },
+        _onTouchMove: function _onTouchMove(e) {
+            if (supportsEB || !this.isTabView || !this.needSlider) {
+                return;
+            }
+            this.deltaX = this._getTouchXPos(e) - this.startPosX;
+            this.deltaY = Math.abs(this._getTouchYPos(e) - this.startPosY + 1);
+            if (this.judge === 'INITIAL' && Math.abs(this.deltaX) / this.deltaY > 1.73) {
+                this.judge = 'SLIDE_ING';
+            }
+        },
+        _onTouchEnd: function _onTouchEnd() {
+            if (supportsEB || !this.isTabView || !this.needSlider) {
+                return;
+            }
+            if (this.judge === 'SLIDE_ING') {
+                if (this.deltaX < -50) {
+                    this.next();
+                } else if (this.deltaX > 50) {
+                    this.prev();
+                }
+            }
+            this.judge = 'INITIAL';
+        },
+        _getTouchXPos: function _getTouchXPos(e) {
+            return e.changedTouches[0]['pageX'];
+        },
+        _getTouchYPos: function _getTouchYPos(e) {
+            return e.changedTouches[0]['pageY'];
+        }
     }
-  }
 };
 
 /***/ }),
@@ -13731,7 +13785,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     style: {
       color: _vm.textColor
     }
-  }, [_vm._v(_vm._s(_vm.leftText))]) : _vm._e()])], 2), _vm._t("middle", [_c('text', {
+  }, [_vm._v(_vm._s(_vm.leftText) + "\n            ")]) : _vm._e()])], 2), _vm._t("middle", [_c('text', {
     staticClass: ["middle-title"],
     style: {
       color: _vm.textColor
@@ -13752,7 +13806,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     style: {
       color: _vm.textColor
     }
-  }, [_vm._v(_vm._s(_vm.rightText))]) : _vm._e()])], 2)], 2) : _vm._e()
+  }, [_vm._v(_vm._s(_vm.rightText) + "\n            ")]) : _vm._e()])], 2)], 2) : _vm._e()
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 
@@ -13814,7 +13868,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
         fontSize: _vm.tabStyles.iconFontSize + 'px',
         color: _vm.currentPage == index ? _vm.tabStyles.activeIconFontColor : _vm.tabStyles.iconFontColor
       }
-    }, [_vm._v(_vm._s(v.codePoint))]) : _vm._e(), (!_vm.titleUseSlot) ? _c('text', {
+    }, [_vm._v("\n                " + _vm._s(v.codePoint) + "\n            ")]) : _vm._e(), (!_vm.titleUseSlot) ? _c('text', {
       staticClass: ["tab-text"],
       style: {
         fontSize: _vm.tabStyles.fontSize + 'px',
@@ -13823,7 +13877,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
         paddingLeft: _vm.tabStyles.textPaddingLeft + 'px',
         paddingRight: _vm.tabStyles.textPaddingRight + 'px'
       }
-    }, [_vm._v(_vm._s(v.title))]) : _vm._e(), (v.badge && !_vm.titleUseSlot) ? _c('div', {
+    }, [_vm._v(_vm._s(v.title) + "\n            ")]) : _vm._e(), (v.badge && !_vm.titleUseSlot) ? _c('div', {
       staticClass: ["desc-tag"]
     }, [_c('text', {
       staticClass: ["desc-text"]
@@ -14679,7 +14733,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       attrs: {
         "ariaLabel": ("周" + week)
       }
-    }, [_vm._v(_vm._s(week))])
+    }, [_vm._v(_vm._s(week) + "\n        ")])
   })) : _vm._e(), (_vm.isShow) ? _c('list', {
     staticClass: ["calendar-list"]
   }, [_vm._l((_vm.monthsArray), function(month, index) {
@@ -14692,7 +14746,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       }
     }, [(month.title) ? _c('text', {
       staticClass: ["month-text"]
-    }, [_vm._v(_vm._s(month.title))]) : _vm._l((month), function(cell, rowIndex) {
+    }, [_vm._v(_vm._s(month.title) + "\n            ")]) : _vm._l((month), function(cell, rowIndex) {
       return _c('div', {
         key: (index + "-" + rowIndex),
         ref: cell.ref,
@@ -14784,7 +14838,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
         fontSize: _vm.tabStyles.iconFontSize + 'px',
         color: _vm.currentPage == index ? _vm.tabStyles.activeIconFontColor : _vm.tabStyles.iconFontColor
       }
-    }, [_vm._v(_vm._s(v.codePoint))]) : _vm._e(), (!_vm.titleUseSlot) ? _c('text', {
+    }, [_vm._v("\n                " + _vm._s(v.codePoint) + "\n            ")]) : _vm._e(), (!_vm.titleUseSlot) ? _c('text', {
       staticClass: ["tab-text"],
       style: {
         fontSize: _vm.tabStyles.fontSize + 'px',
@@ -14793,7 +14847,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
         paddingLeft: _vm.tabStyles.textPaddingLeft + 'px',
         paddingRight: _vm.tabStyles.textPaddingRight + 'px'
       }
-    }, [_vm._v(_vm._s(v.title))]) : _vm._e(), (_vm.tabStyles.hasActiveBottom && !_vm.titleUseSlot) ? _c('div', {
+    }, [_vm._v(_vm._s(v.title) + "\n            ")]) : _vm._e(), (_vm.tabStyles.hasActiveBottom && !_vm.titleUseSlot) ? _c('div', {
       staticClass: ["border-bottom"],
       style: {
         width: _vm.tabStyles.activeBottomWidth + 'px',
@@ -14977,7 +15031,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       }
     }, [(!_vm.onlyShowList) ? _c('text', {
       class: ['index-list-title', v.type && v.type == 'group' && 'group-title']
-    }, [_vm._v(_vm._s(v.title))]) : _vm._e(), (v.type && v.type === 'group' && !_vm.onlyShowList) ? _c('div', {
+    }, [_vm._v(_vm._s(v.title) + "\n            ")]) : _vm._e(), (v.type && v.type === 'group' && !_vm.onlyShowList) ? _c('div', {
       staticClass: ["group"]
     }, _vm._l((v.data), function(group, index) {
       return _c('div', {
@@ -15047,7 +15101,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
           _vm.go2Key(item.title)
         }
       }
-    }, [_vm._v(_vm._s(item.title))])
+    }, [_vm._v(_vm._s(item.title) + "\n        ")])
   })) : _vm._e(), (_vm.popKeyShow) ? _c('div', {
     staticClass: ["index-list-pop"]
   }, [_c('text', {
