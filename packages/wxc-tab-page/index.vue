@@ -101,13 +101,9 @@
 </style>
 
 <script>
-    let dom, animation, swipeBack, expressionBinding;
+    let dom, animation, swipeBack, expressionBinding, supportsEB, supportsEBForIos, isIos;
 
     import Utils from '../utils';
-
-    const supportsEB = Utils.env.supportsEB();
-    const supportsEBForIos = Utils.env.supportsEBForIos();
-    const isIos = Utils.env.isIOS();
 
     export default {
         props: {
@@ -192,7 +188,10 @@
             dom = weex.requireModule('dom');
             animation = weex.requireModule('animation');
             swipeBack = weex.requireModule('swipeBack');
-            expressionBinding = weex.requireModule('expressionBinding')
+            expressionBinding = weex.requireModule('expressionBinding');
+            supportsEB = Utils.env.supportsEB();
+            supportsEBForIos = Utils.env.supportsEBForIos();
+            isIos = Utils.env.isIOS();
             const {titleType, tabStyles} = this;
             if (titleType === 'iconFont' && tabStyles.iconFontUrl) {
                 dom.addRule('fontFace', {

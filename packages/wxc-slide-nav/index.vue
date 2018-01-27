@@ -16,9 +16,9 @@
 </style>
 
 <script>
-    let DOM, Animation;
+    let DOM, Animation, SCALE;
     const OFFSET_ACCURACY = 10;
-    const SCALE = weex.config.env.platform.toLowerCase() === 'web' ? 2 : 1;
+
 
     function _toNum(str) {
         return typeof str === 'number' ? str : parseFloat((str || '').replace(/px$/i, ''));
@@ -62,8 +62,10 @@
         },
 
         created() {
+
             Dom = weex.requireModule('dom');
             Animation = weex.requireModule('animation');
+            SCALE = weex.config.env.platform.toLowerCase() === 'web' ? 2 : 1;
             this._height = _toNum(this.height) || 0;
             this._isBottom = this.position === 'bottom';
             this._direction = this._isBottom ? 1 : -1;

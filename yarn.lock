@@ -3458,6 +3458,12 @@ isarray@~0.0.1:
   version "0.0.1"
   resolved "http://registry.npm.taobao.org/isarray/download/isarray-0.0.1.tgz#8a18acfca9a8f4177e09abfc6038939b05d1eedf"
 
+iscloudx-weex-ui@^0.3.13:
+  version "0.3.13"
+  resolved "http://registry.npm.taobao.org/iscloudx-weex-ui/download/iscloudx-weex-ui-0.3.13.tgz#edb3980a76f2623a119b5e5511e196cfd116e921"
+  dependencies:
+    url-parse "^1.1.9"
+
 isexe@^2.0.0:
   version "2.0.0"
   resolved "http://registry.npm.taobao.org/isexe/download/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"

@@ -45,9 +45,8 @@
     import * as Format from './format';
     import Utils from '../utils';
 
-    const isWeb = Utils.env.isWeb();
 
-    let animation, dom;
+    let animation, dom, isWeb;
 
     import WxcMinibar from '../wxc-minibar'
 
@@ -106,8 +105,10 @@
         created() {
             animation = weex.requireModule('animation');
             dom = weex.requireModule('dom');
+            isWeb = Utils.env.isWeb();
             this.isIPhoneX = Utils.env.isIPhoneX();
             this.showTitle = isWeb || this.showHeader;
+
             this.detectShow();
         },
         mounted() {

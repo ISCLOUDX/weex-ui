@@ -52,9 +52,8 @@
 </style>
 
 <script>
-    let animation;
-    const {platform} = weex.config.env;
-    const isWeb = typeof (window) === 'object' && platform.toLowerCase() === 'web';
+    let animation, platform, isWeb;
+
     import WxcOverlay from '../wxc-overlay';
 
     export default {
@@ -202,7 +201,9 @@
             }
         },
         created() {
-            animation = weex.requireModule('animation')
+            animation = weex.requireModule('animation');
+            platform = weex.config.env.platform;
+            isWeb = typeof (window) === 'object' && platform.toLowerCase() === 'web';
         }
     }
 </script>
